@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!--Created with PDF2WD converter-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500.25 1390.98"><g id="id-2" class="rectangle">
+<rect x="-0.5" y="-0.0345" width="1501.25" height="1390.98" stroke="#ffffff" fill="#ffffff" stroke-width="0.75"/>
+</g>
+<g id="id-3" class="xygrid">
+<rect x="-0.5" y="-0.0345" width="1501.25" height="1390.98" stroke="none" fill="none" stroke-width="0.75"/>
+</g>
+<g id="id-5" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900001_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M31.5962,116.611 L31.5962,173.82" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-6" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900002_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,116.611 L574.923,173.82" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-7" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900003_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M31.5962,145.215 L60.1923,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-8" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900004_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M117.385,145.215 L128.823,145.215 L145.981,145.215 L191.734,145.215 L317.557,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-9" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900005_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,145.215 L603.519,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-10" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900006_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M660.711,145.215 L672.149,145.215 L698.844,145.215 L763.657,145.215 L860.884,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-11" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900007_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,145.215 L1449.96,145.215 L1161.14,145.215 L1161.14,202.424 L1164,202.424 L1175.44,202.424" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-12" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900008_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,202.424 L1449.96,202.424 L1308.89,202.424 L1244.07,202.424 L1232.63,202.424" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-13" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900009_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M31.5962,316.842 L31.5962,374.051" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-14" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900011_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M31.5962,345.447 L60.1923,345.447" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-15" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900012_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M317.557,345.447 L191.734,345.447 L145.981,345.447 L128.823,345.447 L117.385,345.447" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-16" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900010_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,316.842 L574.923,374.051" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-17" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900013_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,345.447 L603.519,345.447" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-18" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900014_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M660.711,345.447 L672.149,345.447 L689.307,345.447 L735.061,345.447 L860.884,345.447" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-19" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900015_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,374.051 L1449.96,374.051 L1161.14,374.051 L1161.14,431.26 L1164,431.26 L1175.44,431.26" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-20" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900016_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,431.26 L1449.96,431.26 L1308.89,431.26 L1244.07,431.26 L1232.63,431.26" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-21" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900017_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M47.9388,517.074 L47.9388,574.283" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-22" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900019_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M47.9388,545.678 L90.4184,545.678" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-23" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900020_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M317.557,545.678 L299.585,545.678 L227.68,545.678 L200.728,545.678 L147.611,545.678" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-24" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900018_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,517.074 L574.923,574.283" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-25" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900021_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M603.519,545.678 L574.923,545.678" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-26" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900022_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M660.711,545.678 L672.149,545.678 L689.307,545.678 L735.061,545.678 L860.884,545.678" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-27" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900023_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,602.887 L1449.96,602.887 L1161.14,602.887 L1161.14,660.096 L1164,660.096 L1175.44,660.096" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-28" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900024_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,660.096 L1449.96,660.096 L1308.89,660.096 L1244.07,660.096 L1232.63,660.096" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-29" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900025_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M31.5962,717.305 L31.5962,774.514" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-30" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900027_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M31.5962,745.909 L60.1923,745.909" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-31" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900028_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M117.385,745.909 L128.823,745.909 L155.517,745.909 L220.331,745.909 L317.557,745.909" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-32" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900026_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,717.305 L574.05,774.514" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-33" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900029_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M603.519,745.909 L574.923,745.909" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-34" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900030_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M660.711,745.909 L672.149,745.909 L689.307,745.909 L735.061,745.909 L860.884,745.909" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-35" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900033_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M317.557,917.536 L306.119,917.536 L74.4903,917.536 L74.4903,974.745 L77.3499,974.745 L88.7884,974.745" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-36" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900031_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,831.723 L1449.96,831.723 L1161.14,831.723 L1161.14,888.932 L1164,888.932 L1175.44,888.932" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-37" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900032_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,888.932 L1449.96,888.932 L1308.89,888.932 L1244.07,888.932 L1232.63,888.932" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-38" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900035_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M317.557,974.745 L306.119,974.745 L203.173,974.745 L157.419,974.745 L145.981,974.745" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-39" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900034_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M574.923,946.141 L574.923,1003.35" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-40" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900036_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M603.519,974.745 L574.923,974.745" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-41" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900037_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M660.711,974.745 L672.149,974.745 L689.307,974.745 L735.061,974.745 L860.884,974.745" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-42" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900039_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M317.557,1146.37 L306.119,1146.37 L74.4903,1146.37 L74.4903,1203.58 L77.3499,1203.58 L88.7884,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-43" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900038_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,1117.77 L1404.21,1117.77 L1161.14,1117.77 L1161.14,1203.58 L1164,1203.58 L1175.44,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-44" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900042_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M317.557,1203.58 L306.119,1203.58 L203.173,1203.58 L157.419,1203.58 L145.981,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-45" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900040_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M860.884,1174.98 L863.744,1174.98 L574.923,1174.98 L574.923,1232.19 L577.782,1232.19 L589.221,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-46" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900047_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M860.884,1232.19 L646.413,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-47" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900043_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1175.44,1203.58 L1186.88,1203.58 L1216.91,1174.98 L1232.63,1174.98" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-48" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900048_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1199.75,1232.19 L1175.44,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-49" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900051_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1199.75,1249.35 L1188.31,1249.35 L1188.31,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-50" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900046_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1205.47,1225.03 L1205.47,1207.87" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-51" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900049_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1211.19,1232.19 L1232.63,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-52" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900052_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1211.19,1249.35 L1221.2,1249.35 L1221.2,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-53" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900044_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1232.63,1203.58 L1216.91,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-54" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900041_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,1174.98 L1232.63,1174.98" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-55" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900045_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,1203.58 L1232.63,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-56" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900050_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,1232.19 L1232.63,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-57" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_900053_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1432.81,1289.39 L1404.21,1289.39 L1161.14,1289.39 L1161.14,1232.19 L1164,1232.19 L1175.44,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-58" class="text">
+<metadata>
+<meta name="type"><![CDATA[textvar {Sheet Name}]]></meta>
+<meta name="tag"><![CDATA[gr_900054_4_]]></meta>
+</metadata>
+<text x="751.754" y="33.8645" text-anchor="start" fill="#000000" transform="rotate(0,751.754,33.8645)" textLength="742.5" font-family="OF Helvetica" font-size="40.4662"><![CDATA[1A2_B_Electrical_Distribution_CJB]]></text>
+</g>
+<g id="id-59" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[drawing]]></meta>
+<meta name="tag"><![CDATA[WD_TitleBlock_GEELY_190517_900054_]]></meta>
+
+</metadata>
+</g>
+<g id="id-60" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900055_8_]]></meta>
+</metadata>
+<text x="135.257" y="144.5" text-anchor="start" fill="#000000" transform="rotate(0,135.257,144.5)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-61" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900056_8_]]></meta>
+</metadata>
+<text x="54.4731" y="144.5" text-anchor="start" fill="#000000" transform="rotate(0,54.4731,144.5)" textLength="7.14901" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-62" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900057_8_]]></meta>
+</metadata>
+<text x="58.7625" y="132.343" text-anchor="start" fill="#000000" transform="rotate(0,58.7625,132.343)" textLength="55.608" font-family="Times New Roman" font-size="8.5"><![CDATA[CF03 MCASE+]]></text>
+</g>
+<g id="id-63" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900058_8_]]></meta>
+</metadata>
+<text x="297.54" y="142.355" text-anchor="start" fill="#000000" transform="rotate(0,297.54,142.355)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-64" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900059_8_]]></meta>
+</metadata>
+<text x="291.821" y="153.797" text-anchor="start" fill="#000000" transform="rotate(0,291.821,153.797)" textLength="16.9174" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 3]]></text>
+</g>
+<g id="id-65" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900060_8_]]></meta>
+</metadata>
+<text x="349.728" y="156.657" text-anchor="start" fill="#000000" transform="rotate(0,349.728,156.657)" textLength="2.8596" font-family="Times New Roman" font-size="5.5"><![CDATA[3]]></text>
+</g>
+<g id="id-66" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900061_8_]]></meta>
+</metadata>
+<text x="334.715" y="138.064" text-anchor="start" fill="#000000" transform="rotate(0,334.715,138.064)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-68" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900063_8_]]></meta>
+</metadata>
+<text x="364.587" y="138.064" text-anchor="start" fill="#000000" transform="rotate(0,364.587,138.064)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-69" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900064_8_]]></meta>
+</metadata>
+<text x="5.8596" y="232.459" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,232.459)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-70" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900065_8_]]></meta>
+</metadata>
+<text x="5.8596" y="82.2856" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,82.2856)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-71" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900066_8_]]></meta>
+</metadata>
+<text x="54.4731" y="344.732" text-anchor="start" fill="#000000" transform="rotate(0,54.4731,344.732)" textLength="7.14901" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-72" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900067_8_]]></meta>
+</metadata>
+<text x="135.257" y="344.732" text-anchor="start" fill="#000000" transform="rotate(0,135.257,344.732)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-73" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900068_8_]]></meta>
+</metadata>
+<text x="58.7625" y="332.575" text-anchor="start" fill="#000000" transform="rotate(0,58.7625,332.575)" textLength="55.608" font-family="Times New Roman" font-size="8.5"><![CDATA[CF06 MCASE+]]></text>
+</g>
+<g id="id-74" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900069_8_]]></meta>
+</metadata>
+<text x="297.54" y="342.586" text-anchor="start" fill="#000000" transform="rotate(0,297.54,342.586)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-75" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900070_8_]]></meta>
+</metadata>
+<text x="291.821" y="354.028" text-anchor="start" fill="#000000" transform="rotate(0,291.821,354.028)" textLength="16.9174" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 6]]></text>
+</g>
+<g id="id-76" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900071_8_]]></meta>
+</metadata>
+<text x="349.728" y="356.889" text-anchor="start" fill="#000000" transform="rotate(0,349.728,356.889)" textLength="2.8596" font-family="Times New Roman" font-size="5.5"><![CDATA[6]]></text>
+</g>
+<g id="id-77" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900072_8_]]></meta>
+</metadata>
+<text x="334.715" y="338.296" text-anchor="start" fill="#000000" transform="rotate(0,334.715,338.296)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-79" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900074_8_]]></meta>
+</metadata>
+<text x="364.587" y="338.296" text-anchor="start" fill="#000000" transform="rotate(0,364.587,338.296)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-80" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900075_8_]]></meta>
+</metadata>
+<text x="5.8596" y="432.69" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,432.69)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-81" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900076_8_]]></meta>
+</metadata>
+<text x="5.8596" y="282.517" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,282.517)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-82" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900077_8_]]></meta>
+</metadata>
+<text x="54.4731" y="745.194" text-anchor="start" fill="#000000" transform="rotate(0,54.4731,745.194)" textLength="7.14901" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-83" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900078_8_]]></meta>
+</metadata>
+<text x="135.257" y="745.194" text-anchor="start" fill="#000000" transform="rotate(0,135.257,745.194)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-84" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900079_8_]]></meta>
+</metadata>
+<text x="58.7625" y="733.038" text-anchor="start" fill="#000000" transform="rotate(0,58.7625,733.038)" textLength="53.6263" font-family="Times New Roman" font-size="8.5"><![CDATA[CF13 MICRO2]]></text>
+</g>
+<g id="id-85" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900080_8_]]></meta>
+</metadata>
+<text x="297.54" y="743.049" text-anchor="start" fill="#000000" transform="rotate(0,297.54,743.049)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-86" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900081_8_]]></meta>
+</metadata>
+<text x="287.531" y="754.491" text-anchor="start" fill="#000000" transform="rotate(0,287.531,754.491)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 13]]></text>
+</g>
+<g id="id-87" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900082_8_]]></meta>
+</metadata>
+<text x="353.303" y="757.351" text-anchor="start" fill="#000000" transform="rotate(0,353.303,757.351)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[13]]></text>
+</g>
+<g id="id-88" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900083_8_]]></meta>
+</metadata>
+<text x="334.715" y="738.758" text-anchor="start" fill="#000000" transform="rotate(0,334.715,738.758)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-90" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900085_8_]]></meta>
+</metadata>
+<text x="364.587" y="738.758" text-anchor="start" fill="#000000" transform="rotate(0,364.587,738.758)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-91" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900086_8_]]></meta>
+</metadata>
+<text x="5.8596" y="833.153" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,833.153)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-92" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900087_8_]]></meta>
+</metadata>
+<text x="5.8596" y="682.98" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,682.98)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-93" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900088_8_]]></meta>
+</metadata>
+<text x="83.0692" y="974.03" text-anchor="start" fill="#000000" transform="rotate(0,83.0692,974.03)" textLength="7.14901" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-94" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900089_8_]]></meta>
+</metadata>
+<text x="163.853" y="974.03" text-anchor="start" fill="#000000" transform="rotate(0,163.853,974.03)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-95" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900090_8_]]></meta>
+</metadata>
+<text x="87.3586" y="961.873" text-anchor="start" fill="#000000" transform="rotate(0,87.3586,961.873)" textLength="53.6263" font-family="Times New Roman" font-size="8.5"><![CDATA[CF34 MICRO2]]></text>
+</g>
+<g id="id-96" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900091_8_]]></meta>
+</metadata>
+<text x="297.54" y="971.885" text-anchor="start" fill="#000000" transform="rotate(0,297.54,971.885)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-97" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900092_8_]]></meta>
+</metadata>
+<text x="287.531" y="983.327" text-anchor="start" fill="#000000" transform="rotate(0,287.531,983.327)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 36]]></text>
+</g>
+<g id="id-98" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900093_8_]]></meta>
+</metadata>
+<text x="353.303" y="986.187" text-anchor="start" fill="#000000" transform="rotate(0,353.303,986.187)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[36]]></text>
+</g>
+<g id="id-99" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900094_8_]]></meta>
+</metadata>
+<text x="334.715" y="967.594" text-anchor="start" fill="#000000" transform="rotate(0,334.715,967.594)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-101" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900096_8_]]></meta>
+</metadata>
+<text x="364.587" y="967.594" text-anchor="start" fill="#000000" transform="rotate(0,364.587,967.594)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-102" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900097_8_]]></meta>
+</metadata>
+<text x="297.54" y="914.676" text-anchor="start" fill="#000000" transform="rotate(0,297.54,914.676)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-103" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900098_8_]]></meta>
+</metadata>
+<text x="287.531" y="926.118" text-anchor="start" fill="#000000" transform="rotate(0,287.531,926.118)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 37]]></text>
+</g>
+<g id="id-104" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900099_8_]]></meta>
+</metadata>
+<text x="353.303" y="928.978" text-anchor="start" fill="#000000" transform="rotate(0,353.303,928.978)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[37]]></text>
+</g>
+<g id="id-105" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900100_8_]]></meta>
+</metadata>
+<text x="334.715" y="910.385" text-anchor="start" fill="#000000" transform="rotate(0,334.715,910.385)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-107" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900102_8_]]></meta>
+</metadata>
+<text x="364.587" y="910.385" text-anchor="start" fill="#000000" transform="rotate(0,364.587,910.385)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-108" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900103_8_]]></meta>
+</metadata>
+<text x="5.8596" y="1061.99" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,1061.99)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-109" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900104_8_]]></meta>
+</metadata>
+<text x="5.8596" y="883.211" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,883.211)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-110" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900105_8_]]></meta>
+</metadata>
+<text x="83.0692" y="1202.87" text-anchor="start" fill="#000000" transform="rotate(0,83.0692,1202.87)" textLength="7.14901" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-111" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900106_8_]]></meta>
+</metadata>
+<text x="163.853" y="1202.87" text-anchor="start" fill="#000000" transform="rotate(0,163.853,1202.87)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-112" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900107_8_]]></meta>
+</metadata>
+<text x="87.3586" y="1190.71" text-anchor="start" fill="#000000" transform="rotate(0,87.3586,1190.71)" textLength="53.6263" font-family="Times New Roman" font-size="8.5"><![CDATA[CF35 MICRO2]]></text>
+</g>
+<g id="id-113" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900108_8_]]></meta>
+</metadata>
+<text x="297.54" y="1200.72" text-anchor="start" fill="#000000" transform="rotate(0,297.54,1200.72)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-114" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900109_8_]]></meta>
+</metadata>
+<text x="287.531" y="1212.16" text-anchor="start" fill="#000000" transform="rotate(0,287.531,1212.16)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 38]]></text>
+</g>
+<g id="id-115" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900110_8_]]></meta>
+</metadata>
+<text x="353.303" y="1215.02" text-anchor="start" fill="#000000" transform="rotate(0,353.303,1215.02)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[38]]></text>
+</g>
+<g id="id-116" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900111_8_]]></meta>
+</metadata>
+<text x="334.715" y="1196.43" text-anchor="start" fill="#000000" transform="rotate(0,334.715,1196.43)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-118" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900113_8_]]></meta>
+</metadata>
+<text x="364.587" y="1196.43" text-anchor="start" fill="#000000" transform="rotate(0,364.587,1196.43)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-119" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900114_8_]]></meta>
+</metadata>
+<text x="297.54" y="1143.51" text-anchor="start" fill="#000000" transform="rotate(0,297.54,1143.51)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-120" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900115_8_]]></meta>
+</metadata>
+<text x="287.531" y="1154.95" text-anchor="start" fill="#000000" transform="rotate(0,287.531,1154.95)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 39]]></text>
+</g>
+<g id="id-121" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900116_8_]]></meta>
+</metadata>
+<text x="353.303" y="1157.81" text-anchor="start" fill="#000000" transform="rotate(0,353.303,1157.81)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[39]]></text>
+</g>
+<g id="id-122" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900117_8_]]></meta>
+</metadata>
+<text x="334.715" y="1139.22" text-anchor="start" fill="#000000" transform="rotate(0,334.715,1139.22)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-124" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900119_8_]]></meta>
+</metadata>
+<text x="364.587" y="1139.22" text-anchor="start" fill="#000000" transform="rotate(0,364.587,1139.22)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-125" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900120_8_]]></meta>
+</metadata>
+<text x="5.8596" y="1262.22" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,1262.22)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-126" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900121_8_]]></meta>
+</metadata>
+<text x="5.8596" y="1112.05" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,1112.05)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-127" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900122_8_]]></meta>
+</metadata>
+<text x="597.799" y="144.5" text-anchor="start" fill="#000000" transform="rotate(0,597.799,144.5)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-128" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900123_8_]]></meta>
+</metadata>
+<text x="678.584" y="144.5" text-anchor="start" fill="#000000" transform="rotate(0,678.584,144.5)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-129" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900124_8_]]></meta>
+</metadata>
+<text x="602.089" y="132.343" text-anchor="start" fill="#000000" transform="rotate(0,602.089,132.343)" textLength="53.6264" font-family="Times New Roman" font-size="8.5"><![CDATA[CF42 MICRO2]]></text>
+</g>
+<g id="id-130" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900125_8_]]></meta>
+</metadata>
+<text x="840.867" y="142.355" text-anchor="start" fill="#000000" transform="rotate(0,840.867,142.355)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-131" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900126_8_]]></meta>
+</metadata>
+<text x="830.858" y="153.797" text-anchor="start" fill="#000000" transform="rotate(0,830.858,153.797)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 51]]></text>
+</g>
+<g id="id-132" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900127_8_]]></meta>
+</metadata>
+<text x="896.629" y="156.657" text-anchor="start" fill="#000000" transform="rotate(0,896.629,156.657)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[51]]></text>
+</g>
+<g id="id-133" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900128_8_]]></meta>
+</metadata>
+<text x="878.042" y="138.064" text-anchor="start" fill="#000000" transform="rotate(0,878.042,138.064)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-135" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900130_8_]]></meta>
+</metadata>
+<text x="907.913" y="138.064" text-anchor="start" fill="#000000" transform="rotate(0,907.913,138.064)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-136" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900131_8_]]></meta>
+</metadata>
+<text x="549.186" y="232.459" text-anchor="start" fill="#000000" transform="rotate(0,549.186,232.459)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-137" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900132_8_]]></meta>
+</metadata>
+<text x="549.186" y="82.2856" text-anchor="start" fill="#000000" transform="rotate(0,549.186,82.2856)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-138" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900133_8_]]></meta>
+</metadata>
+<text x="597.799" y="344.732" text-anchor="start" fill="#000000" transform="rotate(0,597.799,344.732)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-139" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900134_8_]]></meta>
+</metadata>
+<text x="678.584" y="344.732" text-anchor="start" fill="#000000" transform="rotate(0,678.584,344.732)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-140" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900135_8_]]></meta>
+</metadata>
+<text x="602.089" y="332.575" text-anchor="start" fill="#000000" transform="rotate(0,602.089,332.575)" textLength="55.6081" font-family="Times New Roman" font-size="8.5"><![CDATA[CF46 MCASE+]]></text>
+</g>
+<g id="id-141" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900136_8_]]></meta>
+</metadata>
+<text x="840.867" y="342.586" text-anchor="start" fill="#000000" transform="rotate(0,840.867,342.586)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-142" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900137_8_]]></meta>
+</metadata>
+<text x="830.858" y="354.028" text-anchor="start" fill="#000000" transform="rotate(0,830.858,354.028)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 69]]></text>
+</g>
+<g id="id-143" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900138_8_]]></meta>
+</metadata>
+<text x="896.629" y="356.889" text-anchor="start" fill="#000000" transform="rotate(0,896.629,356.889)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[69]]></text>
+</g>
+<g id="id-144" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900139_8_]]></meta>
+</metadata>
+<text x="878.042" y="338.296" text-anchor="start" fill="#000000" transform="rotate(0,878.042,338.296)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-146" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900141_8_]]></meta>
+</metadata>
+<text x="907.913" y="338.296" text-anchor="start" fill="#000000" transform="rotate(0,907.913,338.296)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-147" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900142_8_]]></meta>
+</metadata>
+<text x="549.186" y="432.69" text-anchor="start" fill="#000000" transform="rotate(0,549.186,432.69)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-148" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900143_8_]]></meta>
+</metadata>
+<text x="549.186" y="282.517" text-anchor="start" fill="#000000" transform="rotate(0,549.186,282.517)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-149" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900144_8_]]></meta>
+</metadata>
+<text x="597.799" y="544.963" text-anchor="start" fill="#000000" transform="rotate(0,597.799,544.963)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-150" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900145_8_]]></meta>
+</metadata>
+<text x="678.584" y="544.963" text-anchor="start" fill="#000000" transform="rotate(0,678.584,544.963)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-151" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900146_8_]]></meta>
+</metadata>
+<text x="602.089" y="532.806" text-anchor="start" fill="#000000" transform="rotate(0,602.089,532.806)" textLength="55.6081" font-family="Times New Roman" font-size="8.5"><![CDATA[CF47 MCASE+]]></text>
+</g>
+<g id="id-152" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900147_8_]]></meta>
+</metadata>
+<text x="840.867" y="542.818" text-anchor="start" fill="#000000" transform="rotate(0,840.867,542.818)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-153" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900148_8_]]></meta>
+</metadata>
+<text x="830.858" y="554.259" text-anchor="start" fill="#000000" transform="rotate(0,830.858,554.259)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 70]]></text>
+</g>
+<g id="id-154" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900149_8_]]></meta>
+</metadata>
+<text x="896.629" y="557.12" text-anchor="start" fill="#000000" transform="rotate(0,896.629,557.12)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[70]]></text>
+</g>
+<g id="id-155" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900150_8_]]></meta>
+</metadata>
+<text x="878.042" y="538.527" text-anchor="start" fill="#000000" transform="rotate(0,878.042,538.527)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-157" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900152_8_]]></meta>
+</metadata>
+<text x="907.913" y="538.527" text-anchor="start" fill="#000000" transform="rotate(0,907.913,538.527)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-158" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900153_8_]]></meta>
+</metadata>
+<text x="549.186" y="632.922" text-anchor="start" fill="#000000" transform="rotate(0,549.186,632.922)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-159" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900154_8_]]></meta>
+</metadata>
+<text x="549.186" y="482.748" text-anchor="start" fill="#000000" transform="rotate(0,549.186,482.748)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-160" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900155_8_]]></meta>
+</metadata>
+<text x="597.799" y="745.194" text-anchor="start" fill="#000000" transform="rotate(0,597.799,745.194)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-161" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900156_8_]]></meta>
+</metadata>
+<text x="678.584" y="745.194" text-anchor="start" fill="#000000" transform="rotate(0,678.584,745.194)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-162" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900157_8_]]></meta>
+</metadata>
+<text x="602.089" y="733.038" text-anchor="start" fill="#000000" transform="rotate(0,602.089,733.038)" textLength="55.6081" font-family="Times New Roman" font-size="8.5"><![CDATA[CF48 MCASE+]]></text>
+</g>
+<g id="id-163" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900158_8_]]></meta>
+</metadata>
+<text x="840.867" y="743.049" text-anchor="start" fill="#000000" transform="rotate(0,840.867,743.049)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-164" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900159_8_]]></meta>
+</metadata>
+<text x="830.858" y="754.491" text-anchor="start" fill="#000000" transform="rotate(0,830.858,754.491)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 71]]></text>
+</g>
+<g id="id-165" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900160_8_]]></meta>
+</metadata>
+<text x="896.629" y="757.351" text-anchor="start" fill="#000000" transform="rotate(0,896.629,757.351)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[71]]></text>
+</g>
+<g id="id-166" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900161_8_]]></meta>
+</metadata>
+<text x="878.042" y="738.758" text-anchor="start" fill="#000000" transform="rotate(0,878.042,738.758)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-168" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900163_8_]]></meta>
+</metadata>
+<text x="907.913" y="738.758" text-anchor="start" fill="#000000" transform="rotate(0,907.913,738.758)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-169" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900164_8_]]></meta>
+</metadata>
+<text x="549.186" y="833.153" text-anchor="start" fill="#000000" transform="rotate(0,549.186,833.153)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-170" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900165_8_]]></meta>
+</metadata>
+<text x="549.186" y="682.98" text-anchor="start" fill="#000000" transform="rotate(0,549.186,682.98)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-171" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900166_8_]]></meta>
+</metadata>
+<text x="597.799" y="974.03" text-anchor="start" fill="#000000" transform="rotate(0,597.799,974.03)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-172" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900167_8_]]></meta>
+</metadata>
+<text x="678.584" y="974.03" text-anchor="start" fill="#000000" transform="rotate(0,678.584,974.03)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-173" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900168_8_]]></meta>
+</metadata>
+<text x="602.089" y="961.873" text-anchor="start" fill="#000000" transform="rotate(0,602.089,961.873)" textLength="55.6081" font-family="Times New Roman" font-size="8.5"><![CDATA[CF49 MCASE+]]></text>
+</g>
+<g id="id-174" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900169_8_]]></meta>
+</metadata>
+<text x="840.867" y="971.885" text-anchor="start" fill="#000000" transform="rotate(0,840.867,971.885)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-175" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900170_8_]]></meta>
+</metadata>
+<text x="830.858" y="983.327" text-anchor="start" fill="#000000" transform="rotate(0,830.858,983.327)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 72]]></text>
+</g>
+<g id="id-176" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900171_8_]]></meta>
+</metadata>
+<text x="896.629" y="986.187" text-anchor="start" fill="#000000" transform="rotate(0,896.629,986.187)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[72]]></text>
+</g>
+<g id="id-177" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900172_8_]]></meta>
+</metadata>
+<text x="878.042" y="967.594" text-anchor="start" fill="#000000" transform="rotate(0,878.042,967.594)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-179" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900174_8_]]></meta>
+</metadata>
+<text x="907.913" y="967.594" text-anchor="start" fill="#000000" transform="rotate(0,907.913,967.594)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-180" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900175_8_]]></meta>
+</metadata>
+<text x="549.186" y="1061.99" text-anchor="start" fill="#000000" transform="rotate(0,549.186,1061.99)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-181" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900176_8_]]></meta>
+</metadata>
+<text x="549.186" y="911.815" text-anchor="start" fill="#000000" transform="rotate(0,549.186,911.815)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-182" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900177_8_]]></meta>
+</metadata>
+<text x="583.501" y="1231.47" text-anchor="start" fill="#000000" transform="rotate(0,583.501,1231.47)" textLength="7.14901" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-183" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900178_8_]]></meta>
+</metadata>
+<text x="664.286" y="1231.47" text-anchor="start" fill="#000000" transform="rotate(0,664.286,1231.47)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-184" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900179_8_]]></meta>
+</metadata>
+<text x="587.791" y="1219.31" text-anchor="start" fill="#000000" transform="rotate(0,587.791,1219.31)" textLength="53.6263" font-family="Times New Roman" font-size="8.5"><![CDATA[CF50 MICRO2]]></text>
+</g>
+<g id="id-185" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900180_8_]]></meta>
+</metadata>
+<text x="840.867" y="1229.33" text-anchor="start" fill="#000000" transform="rotate(0,840.867,1229.33)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-186" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900181_8_]]></meta>
+</metadata>
+<text x="830.858" y="1240.77" text-anchor="start" fill="#000000" transform="rotate(0,830.858,1240.77)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 73]]></text>
+</g>
+<g id="id-187" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900182_8_]]></meta>
+</metadata>
+<text x="896.629" y="1243.63" text-anchor="start" fill="#000000" transform="rotate(0,896.629,1243.63)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[73]]></text>
+</g>
+<g id="id-188" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900183_8_]]></meta>
+</metadata>
+<text x="878.042" y="1225.03" text-anchor="start" fill="#000000" transform="rotate(0,878.042,1225.03)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-190" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900185_8_]]></meta>
+</metadata>
+<text x="907.913" y="1225.03" text-anchor="start" fill="#000000" transform="rotate(0,907.913,1225.03)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-191" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900186_8_]]></meta>
+</metadata>
+<text x="840.867" y="1172.12" text-anchor="start" fill="#000000" transform="rotate(0,840.867,1172.12)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-192" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900187_8_]]></meta>
+</metadata>
+<text x="830.858" y="1183.56" text-anchor="start" fill="#000000" transform="rotate(0,830.858,1183.56)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 74]]></text>
+</g>
+<g id="id-193" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900188_8_]]></meta>
+</metadata>
+<text x="896.629" y="1186.42" text-anchor="start" fill="#000000" transform="rotate(0,896.629,1186.42)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[74]]></text>
+</g>
+<g id="id-194" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900189_8_]]></meta>
+</metadata>
+<text x="878.042" y="1167.83" text-anchor="start" fill="#000000" transform="rotate(0,878.042,1167.83)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-196" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900191_8_]]></meta>
+</metadata>
+<text x="907.913" y="1167.83" text-anchor="start" fill="#000000" transform="rotate(0,907.913,1167.83)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-197" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900192_8_]]></meta>
+</metadata>
+<text x="549.186" y="1315.14" text-anchor="start" fill="#000000" transform="rotate(0,549.186,1315.14)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-198" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900193_8_]]></meta>
+</metadata>
+<text x="549.186" y="1112.05" text-anchor="start" fill="#000000" transform="rotate(0,549.186,1112.05)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-199" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900194_8_]]></meta>
+</metadata>
+<text x="1169.72" y="201.709" text-anchor="start" fill="#000000" transform="rotate(0,1169.72,201.709)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-200" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900195_8_]]></meta>
+</metadata>
+<text x="1250.51" y="201.709" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,201.709)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-201" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900196_8_]]></meta>
+</metadata>
+<text x="1174.01" y="189.552" text-anchor="start" fill="#000000" transform="rotate(0,1174.01,189.552)" textLength="53.6264" font-family="Times New Roman" font-size="8.5"><![CDATA[CF51 MICRO2]]></text>
+</g>
+<g id="id-202" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900197_8_]]></meta>
+</metadata>
+<text x="1412.79" y="199.564" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,199.564)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-203" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900198_8_]]></meta>
+</metadata>
+<text x="1402.78" y="211.006" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,211.006)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 75]]></text>
+</g>
+<g id="id-204" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900199_8_]]></meta>
+</metadata>
+<text x="1468.55" y="213.866" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,213.866)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[75]]></text>
+</g>
+<g id="id-205" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900200_8_]]></meta>
+</metadata>
+<text x="1449.96" y="195.273" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,195.273)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-207" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900202_8_]]></meta>
+</metadata>
+<text x="1479.84" y="195.273" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,195.273)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-208" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900203_8_]]></meta>
+</metadata>
+<text x="1412.79" y="142.355" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,142.355)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-209" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900204_8_]]></meta>
+</metadata>
+<text x="1402.78" y="153.797" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,153.797)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 76]]></text>
+</g>
+<g id="id-210" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900205_8_]]></meta>
+</metadata>
+<text x="1468.55" y="156.657" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,156.657)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[76]]></text>
+</g>
+<g id="id-211" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900206_8_]]></meta>
+</metadata>
+<text x="1449.96" y="138.064" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,138.064)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-213" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900208_8_]]></meta>
+</metadata>
+<text x="1479.84" y="138.064" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,138.064)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-214" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900209_8_]]></meta>
+</metadata>
+<text x="1121.11" y="261.064" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,261.064)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-215" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900210_8_]]></meta>
+</metadata>
+<text x="1121.11" y="82.2856" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,82.2856)" textLength="61.1639" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-216" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900211_8_]]></meta>
+</metadata>
+<text x="1169.72" y="430.545" text-anchor="start" fill="#000000" transform="rotate(0,1169.72,430.545)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-217" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900212_8_]]></meta>
+</metadata>
+<text x="1250.51" y="430.545" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,430.545)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-218" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900213_8_]]></meta>
+</metadata>
+<text x="1174.01" y="418.388" text-anchor="start" fill="#000000" transform="rotate(0,1174.01,418.388)" textLength="53.6264" font-family="Times New Roman" font-size="8.5"><![CDATA[CF52 MICRO2]]></text>
+</g>
+<g id="id-219" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900214_8_]]></meta>
+</metadata>
+<text x="1412.79" y="428.4" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,428.4)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-220" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900215_8_]]></meta>
+</metadata>
+<text x="1402.78" y="439.842" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,439.842)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 77]]></text>
+</g>
+<g id="id-221" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900216_8_]]></meta>
+</metadata>
+<text x="1468.55" y="442.702" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,442.702)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[77]]></text>
+</g>
+<g id="id-222" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900217_8_]]></meta>
+</metadata>
+<text x="1449.96" y="424.109" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,424.109)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-224" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900219_8_]]></meta>
+</metadata>
+<text x="1479.84" y="424.109" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,424.109)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-225" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900220_8_]]></meta>
+</metadata>
+<text x="1412.79" y="371.191" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,371.191)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-226" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900221_8_]]></meta>
+</metadata>
+<text x="1402.78" y="382.633" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,382.633)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 78]]></text>
+</g>
+<g id="id-227" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900222_8_]]></meta>
+</metadata>
+<text x="1468.55" y="385.493" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,385.493)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[78]]></text>
+</g>
+<g id="id-228" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900223_8_]]></meta>
+</metadata>
+<text x="1449.96" y="366.9" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,366.9)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-230" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900225_8_]]></meta>
+</metadata>
+<text x="1479.84" y="366.9" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,366.9)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-231" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900226_8_]]></meta>
+</metadata>
+<text x="1121.11" y="489.899" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,489.899)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-232" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900227_8_]]></meta>
+</metadata>
+<text x="1121.11" y="311.121" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,311.121)" textLength="61.1639" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-233" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900228_8_]]></meta>
+</metadata>
+<text x="1169.72" y="659.381" text-anchor="start" fill="#000000" transform="rotate(0,1169.72,659.381)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-234" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900229_8_]]></meta>
+</metadata>
+<text x="1250.51" y="659.381" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,659.381)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-235" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900230_8_]]></meta>
+</metadata>
+<text x="1174.01" y="647.224" text-anchor="start" fill="#000000" transform="rotate(0,1174.01,647.224)" textLength="53.6264" font-family="Times New Roman" font-size="8.5"><![CDATA[CF53 MICRO2]]></text>
+</g>
+<g id="id-236" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900231_8_]]></meta>
+</metadata>
+<text x="1412.79" y="657.236" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,657.236)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-237" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900232_8_]]></meta>
+</metadata>
+<text x="1402.78" y="668.677" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,668.677)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 79]]></text>
+</g>
+<g id="id-238" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900233_8_]]></meta>
+</metadata>
+<text x="1468.55" y="671.538" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,671.538)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[79]]></text>
+</g>
+<g id="id-239" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900234_8_]]></meta>
+</metadata>
+<text x="1449.96" y="652.945" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,652.945)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-241" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900236_8_]]></meta>
+</metadata>
+<text x="1479.84" y="652.945" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,652.945)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-242" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900237_8_]]></meta>
+</metadata>
+<text x="1412.79" y="600.027" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,600.027)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-243" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900238_8_]]></meta>
+</metadata>
+<text x="1402.78" y="611.468" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,611.468)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 80]]></text>
+</g>
+<g id="id-244" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900239_8_]]></meta>
+</metadata>
+<text x="1468.55" y="614.329" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,614.329)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[80]]></text>
+</g>
+<g id="id-245" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900240_8_]]></meta>
+</metadata>
+<text x="1449.96" y="595.736" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,595.736)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-247" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900242_8_]]></meta>
+</metadata>
+<text x="1479.84" y="595.736" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,595.736)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-248" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900243_8_]]></meta>
+</metadata>
+<text x="1121.11" y="718.735" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,718.735)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-249" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900244_8_]]></meta>
+</metadata>
+<text x="1121.11" y="539.957" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,539.957)" textLength="61.1639" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-250" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900245_8_]]></meta>
+</metadata>
+<text x="1169.72" y="888.217" text-anchor="start" fill="#000000" transform="rotate(0,1169.72,888.217)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-251" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900246_8_]]></meta>
+</metadata>
+<text x="1250.51" y="888.217" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,888.217)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-252" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900247_8_]]></meta>
+</metadata>
+<text x="1174.01" y="876.06" text-anchor="start" fill="#000000" transform="rotate(0,1174.01,876.06)" textLength="53.6264" font-family="Times New Roman" font-size="8.5"><![CDATA[CF54 MICRO2]]></text>
+</g>
+<g id="id-253" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900248_8_]]></meta>
+</metadata>
+<text x="1412.79" y="886.071" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,886.071)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-254" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900249_8_]]></meta>
+</metadata>
+<text x="1402.78" y="897.513" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,897.513)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 81]]></text>
+</g>
+<g id="id-255" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900250_8_]]></meta>
+</metadata>
+<text x="1468.55" y="900.374" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,900.374)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[81]]></text>
+</g>
+<g id="id-256" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900251_8_]]></meta>
+</metadata>
+<text x="1449.96" y="881.781" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,881.781)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-258" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900253_8_]]></meta>
+</metadata>
+<text x="1479.84" y="881.781" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,881.781)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-259" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900254_8_]]></meta>
+</metadata>
+<text x="1412.79" y="828.863" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,828.863)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-260" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900255_8_]]></meta>
+</metadata>
+<text x="1402.78" y="840.304" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,840.304)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 82]]></text>
+</g>
+<g id="id-261" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900256_8_]]></meta>
+</metadata>
+<text x="1468.55" y="843.165" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,843.165)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[82]]></text>
+</g>
+<g id="id-262" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900257_8_]]></meta>
+</metadata>
+<text x="1449.96" y="824.572" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,824.572)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-264" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900259_8_]]></meta>
+</metadata>
+<text x="1479.84" y="824.572" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,824.572)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-265" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900260_8_]]></meta>
+</metadata>
+<text x="1121.11" y="947.571" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,947.571)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-266" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900261_8_]]></meta>
+</metadata>
+<text x="1121.11" y="768.793" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,768.793)" textLength="61.1639" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-267" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900262_8_]]></meta>
+</metadata>
+<text x="1169.72" y="1202.87" text-anchor="start" fill="#000000" transform="rotate(0,1169.72,1202.87)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-268" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900263_8_]]></meta>
+</metadata>
+<text x="1169.72" y="1231.47" text-anchor="start" fill="#000000" transform="rotate(0,1169.72,1231.47)" textLength="7.14909" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-269" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900264_8_]]></meta>
+</metadata>
+<text x="1250.51" y="1231.47" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,1231.47)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-270" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900265_8_]]></meta>
+</metadata>
+<text x="1250.51" y="1202.87" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,1202.87)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-271" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900266_8_]]></meta>
+</metadata>
+<text x="1250.51" y="1174.26" text-anchor="start" fill="#000000" transform="rotate(0,1250.51,1174.26)" textLength="10.7235" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-272" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900267_8_]]></meta>
+</metadata>
+<text x="1174.01" y="1160.67" text-anchor="start" fill="#000000" transform="rotate(0,1174.01,1160.67)" textLength="49.8086" font-family="Times New Roman" font-size="8.5"><![CDATA[CR04 V4/V15]]></text>
+</g>
+<g id="id-273" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900268_8_]]></meta>
+</metadata>
+<text x="1412.79" y="1172.12" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,1172.12)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-274" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900269_8_]]></meta>
+</metadata>
+<text x="1402.78" y="1183.56" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,1183.56)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 68]]></text>
+</g>
+<g id="id-275" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900270_8_]]></meta>
+</metadata>
+<text x="1468.55" y="1186.42" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,1186.42)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[68]]></text>
+</g>
+<g id="id-276" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900271_8_]]></meta>
+</metadata>
+<text x="1449.96" y="1167.83" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,1167.83)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-278" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900273_8_]]></meta>
+</metadata>
+<text x="1479.84" y="1167.83" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,1167.83)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-279" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900274_8_]]></meta>
+</metadata>
+<text x="1412.79" y="1229.33" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,1229.33)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-280" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900275_8_]]></meta>
+</metadata>
+<text x="1402.78" y="1240.77" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,1240.77)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 65]]></text>
+</g>
+<g id="id-281" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900276_8_]]></meta>
+</metadata>
+<text x="1468.55" y="1243.63" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,1243.63)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[65]]></text>
+</g>
+<g id="id-282" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900277_8_]]></meta>
+</metadata>
+<text x="1449.96" y="1225.03" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,1225.03)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-284" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900279_8_]]></meta>
+</metadata>
+<text x="1479.84" y="1225.03" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,1225.03)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-285" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900280_8_]]></meta>
+</metadata>
+<text x="1412.79" y="1286.53" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,1286.53)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-286" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900281_8_]]></meta>
+</metadata>
+<text x="1402.78" y="1297.98" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,1297.98)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 66]]></text>
+</g>
+<g id="id-287" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900282_8_]]></meta>
+</metadata>
+<text x="1468.55" y="1300.84" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,1300.84)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[66]]></text>
+</g>
+<g id="id-288" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900283_8_]]></meta>
+</metadata>
+<text x="1449.96" y="1282.24" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,1282.24)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-290" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900285_8_]]></meta>
+</metadata>
+<text x="1479.84" y="1282.24" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,1282.24)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-291" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900286_8_]]></meta>
+</metadata>
+<text x="1412.79" y="1200.72" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,1200.72)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-292" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900287_8_]]></meta>
+</metadata>
+<text x="1402.78" y="1212.16" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,1212.16)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 83]]></text>
+</g>
+<g id="id-293" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900288_8_]]></meta>
+</metadata>
+<text x="1468.55" y="1215.02" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,1215.02)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[83]]></text>
+</g>
+<g id="id-294" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900289_8_]]></meta>
+</metadata>
+<text x="1449.96" y="1196.43" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,1196.43)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-296" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900291_8_]]></meta>
+</metadata>
+<text x="1479.84" y="1196.43" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,1196.43)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-297" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900292_8_]]></meta>
+</metadata>
+<text x="1412.79" y="1114.91" text-anchor="start" fill="#000000" transform="rotate(0,1412.79,1114.91)" textLength="12.388" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-298" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900293_8_]]></meta>
+</metadata>
+<text x="1402.78" y="1126.35" text-anchor="start" fill="#000000" transform="rotate(0,1402.78,1126.35)" textLength="21.2069" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 67]]></text>
+</g>
+<g id="id-299" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900294_8_]]></meta>
+</metadata>
+<text x="1468.55" y="1129.21" text-anchor="start" fill="#000000" transform="rotate(0,1468.55,1129.21)" textLength="5.7192" font-family="Times New Roman" font-size="5.5"><![CDATA[67]]></text>
+</g>
+<g id="id-300" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900295_8_]]></meta>
+</metadata>
+<text x="1449.96" y="1110.62" text-anchor="start" fill="#000000" transform="rotate(0,1449.96,1110.62)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-302" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900297_8_]]></meta>
+</metadata>
+<text x="1479.84" y="1110.62" text-anchor="start" fill="#000000" transform="rotate(0,1479.84,1110.62)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-303" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900298_8_]]></meta>
+</metadata>
+<text x="1121.11" y="1376.64" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,1376.64)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-304" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900299_8_]]></meta>
+</metadata>
+<text x="1121.11" y="997.629" text-anchor="start" fill="#000000" transform="rotate(0,1121.11,997.629)" textLength="61.1639" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-305" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900300_8_]]></meta>
+</metadata>
+<text x="74.6905" y="544.963" text-anchor="start" fill="#000000" transform="rotate(0,74.6905,544.963)" textLength="7.14905" font-family="OF Helvetica" font-size="7"><![CDATA[in]]></text>
+</g>
+<g id="id-306" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900301_8_]]></meta>
+</metadata>
+<text x="165.483" y="544.963" text-anchor="start" fill="#000000" transform="rotate(0,165.483,544.963)" textLength="10.7236" font-family="OF Helvetica" font-size="7"><![CDATA[out]]></text>
+</g>
+<g id="id-307" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900302_8_]]></meta>
+</metadata>
+<text x="88.9886" y="532.806" text-anchor="start" fill="#000000" transform="rotate(0,88.9886,532.806)" textLength="55.608" font-family="Times New Roman" font-size="8.5"><![CDATA[CF08 MCASE+]]></text>
+</g>
+<g id="id-308" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900303_8_]]></meta>
+</metadata>
+<text x="284.672" y="542.818" text-anchor="start" fill="#000000" transform="rotate(0,284.672,542.818)" textLength="12.3878" font-family="Times New Roman" font-size="8.5"><![CDATA[NA]]></text>
+</g>
+<g id="id-309" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900304_8_]]></meta>
+</metadata>
+<text x="274.663" y="554.259" text-anchor="start" fill="#000000" transform="rotate(0,274.663,554.259)" textLength="16.9175" font-family="Times New Roman" font-size="8.5"><![CDATA[X1 8]]></text>
+</g>
+<g id="id-310" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900305_8_]]></meta>
+</metadata>
+<text x="349.728" y="557.12" text-anchor="start" fill="#000000" transform="rotate(0,349.728,557.12)" textLength="2.8596" font-family="Times New Roman" font-size="5.5"><![CDATA[8]]></text>
+</g>
+<g id="id-311" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900306_8_]]></meta>
+</metadata>
+<text x="334.715" y="538.527" text-anchor="start" fill="#000000" transform="rotate(0,334.715,538.527)" textLength="18.4331" font-family="Times New Roman" font-size="5.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-313" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900308_8_]]></meta>
+</metadata>
+<text x="364.587" y="538.527" text-anchor="start" fill="#000000" transform="rotate(0,364.587,538.527)" textLength="8.41866" font-family="Times New Roman" font-size="5.5"><![CDATA[.X1]]></text>
+</g>
+<g id="id-314" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900309_8_]]></meta>
+</metadata>
+<text x="5.8596" y="482.748" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,482.748)" textLength="61.164" font-family="OF Helvetica" font-size="14.5"><![CDATA[B005:1:]]></text>
+</g>
+<g id="id-315" class="text">
+<metadata>
+<meta name="type"><![CDATA[text]]></meta>
+<meta name="tag"><![CDATA[gr_900310_8_]]></meta>
+</metadata>
+<text x="5.8596" y="632.922" text-anchor="start" fill="#000000" transform="rotate(0,5.8596,632.922)" textLength="64.3413" font-family="OF Helvetica" font-size="14.5"><![CDATA[X1:040497]]></text>
+</g>
+<g id="id-316" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[drawing]]></meta>
+<meta name="tag"><![CDATA[UNCLASSIFIED_SHAPES]]></meta>
+
+</metadata>
+<rect x="3" y="88.0065" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="60.1923" y="136.634" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="60.1923" y="136.634" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M317.557,145.215 L346.154,145.215 L317.557,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="3" y="288.238" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="60.1923" y="336.865" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="60.1923" y="336.865" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M317.557,345.447 L346.154,345.447 L317.557,345.447" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="3" y="688.701" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="60.1923" y="737.328" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="60.1923" y="737.328" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M317.557,745.909 L346.154,745.909 L317.557,745.909" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="3" y="888.932" width="314.557" height="143.022" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="88.7884" y="966.164" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="88.7884" y="966.164" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M317.557,974.745 L346.154,974.745 L317.557,974.745" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M317.557,917.536 L346.154,917.536 L317.557,917.536" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="3" y="1117.77" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="88.7884" y="1195" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="88.7884" y="1195" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M317.557,1203.58 L346.154,1203.58 L317.557,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M317.557,1146.37 L346.154,1146.37 L317.557,1146.37" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="546.326" y="88.0065" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="136.634" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="136.634" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M860.884,145.215 L889.48,145.215 L860.884,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="546.326" y="288.238" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="336.865" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="336.865" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M860.884,345.447 L889.48,345.447 L860.884,345.447" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="546.326" y="488.469" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="537.097" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="537.097" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M860.884,545.678 L889.48,545.678 L860.884,545.678" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="546.326" y="688.701" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="737.328" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="737.328" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M860.884,745.909 L889.48,745.909 L860.884,745.909" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="546.326" y="917.536" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="966.164" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="603.519" y="966.164" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M860.884,974.745 L889.48,974.745 L860.884,974.745" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="546.326" y="1117.77" width="314.557" height="167.336" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="589.221" y="1223.6" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="589.221" y="1223.6" width="57.1922" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M860.884,1232.19 L889.48,1232.19 L860.884,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M860.884,1174.98 L889.48,1174.98 L860.884,1174.98" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="1118.25" y="88.0065" width="314.557" height="143.022" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="193.843" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="193.843" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M1432.81,202.424 L1461.4,202.424 L1432.81,202.424" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,145.215 L1461.4,145.215 L1432.81,145.215" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="1118.25" y="316.842" width="314.557" height="143.022" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="422.679" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="422.679" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M1432.81,431.26 L1461.4,431.26 L1432.81,431.26" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,374.051 L1461.4,374.051 L1432.81,374.051" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="1118.25" y="545.678" width="314.557" height="143.022" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="651.515" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="651.515" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M1432.81,660.096 L1461.4,660.096 L1432.81,660.096" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,602.887 L1461.4,602.887 L1432.81,602.887" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="1118.25" y="774.514" width="314.557" height="143.022" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="880.351" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="880.351" width="57.1924" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M1432.81,888.932 L1461.4,888.932 L1432.81,888.932" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,831.723 L1461.4,831.723 L1432.81,831.723" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="1118.25" y="1003.35" width="314.557" height="343.254" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="1164.97" width="57.1924" height="92.9646" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1175.44" y="1164.97" width="57.1924" height="92.9646" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1199.75" y="1247.36" width="11.4386" height="4.29071" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1199.75" y="1247.36" width="11.4386" height="4.29071" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1201.18" y="1225.91" width="8.57881" height="15.7325" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="1201.18" y="1225.91" width="8.57881" height="15.7325" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M1432.81,1174.98 L1461.4,1174.98 L1432.81,1174.98" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,1232.19 L1461.4,1232.19 L1432.81,1232.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,1289.39 L1461.4,1289.39 L1432.81,1289.39" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,1203.58 L1461.4,1203.58 L1432.81,1203.58" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1432.81,1117.77 L1461.4,1117.77 L1432.81,1117.77" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<rect x="3" y="488.469" width="314.557" height="114.418" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="90.4184" y="537.097" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<rect x="90.4184" y="537.097" width="57.1923" height="17.1627" stroke="#000000" fill="none" stroke-width="0.75"/>
+<path d="M317.557,545.678 L346.154,545.678 L317.557,545.678" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+</g>
+</svg>

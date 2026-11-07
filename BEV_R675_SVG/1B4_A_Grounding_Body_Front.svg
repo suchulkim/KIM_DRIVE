@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!--Created with PDF2WD converter-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1849.39 1455.21"><g id="id-2" class="rectangle">
+<rect x="-0.15" y="-0.0345" width="1849.15" height="1454.84" stroke="#ffffff" fill="#ffffff" stroke-width="0.75"/>
+</g>
+<g id="id-3" class="xygrid">
+<rect x="-0.15" y="-0.0345" width="1849.15" height="1454.84" stroke="none" fill="none" stroke-width="0.75"/>
+</g>
+<g id="id-5" class="text">
+<metadata>
+<meta name="type"><![CDATA[textvar {Sheet Name}]]></meta>
+<meta name="tag"><![CDATA[gr_1050001_]]></meta>
+</metadata>
+<text x="932.082" y="33.8645" text-anchor="start" fill="#000000" transform="rotate(0,932.082,33.8645)" textLength="897.304" font-family="OF Helvetica" font-size="40.4662"><![CDATA[1B4_A_Grounding_Body_Front]]></text>
+</g>
+<g id="id-6" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[_95_002_JUNCTION_CONNECTOR_2_KX11_1050002_]]></meta>
+<meta name="ref"><![CDATA[95/2]]></meta>
+<meta name="description"><![CDATA[JUNCTION CONNECTOR 2]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<rect x="859.279" y="825.613" width="171.577" height="85.8134" stroke="#000000" fill="none" stroke-width="3"/>
+<text x="862.139" y="798.439" text-anchor="start" fill="#000000" transform="rotate(0,862.139,798.439)" textLength="200.559" font-family="OF Helvetica" font-size="14.3002"><![CDATA[95/2 JUNCTION CONNECTOR 2]]></text>
+<text x="826.394" y="847.066" text-anchor="start" fill="#000000" transform="rotate(0,826.394,847.066)" textLength="18.5875" font-family="OF Helvetica" font-size="5.72006"><![CDATA[95/2.X1]]></text>
+<text x="1048.01" y="847.066" text-anchor="start" fill="#000000" transform="rotate(0,1048.01,847.066)" textLength="18.5874" font-family="OF Helvetica" font-size="5.72006"><![CDATA[95/2.X1]]></text>
+<text x="869.288" y="851.357" text-anchor="start" fill="#000000" transform="rotate(0,869.288,851.357)" textLength="4.2894" font-family="OF Helvetica" font-size="8.58009"><![CDATA[1]]></text>
+<text x="1012.27" y="851.357" text-anchor="start" fill="#000000" transform="rotate(0,1012.27,851.357)" textLength="4.2894" font-family="OF Helvetica" font-size="8.58009"><![CDATA[3]]></text>
+<text x="869.288" y="862.799" text-anchor="start" fill="#000000" transform="rotate(0,869.288,862.799)" textLength="16.9174" font-family="OF Helvetica" font-size="8.58009"><![CDATA[X1 1]]></text>
+<text x="999.4" y="862.799" text-anchor="start" fill="#000000" transform="rotate(0,999.4,862.799)" textLength="16.9174" font-family="OF Helvetica" font-size="8.58009"><![CDATA[X1 3]]></text>
+<text x="831.318" y="865.659" text-anchor="start" fill="#000000" transform="rotate(0,831.318,865.659)" textLength="11.5986" font-family="OF Helvetica" font-size="5.72006"><![CDATA[SN 1]]></text>
+<text x="1060.09" y="865.659" text-anchor="start" fill="#000000" transform="rotate(0,1060.09,865.659)" textLength="11.5986" font-family="OF Helvetica" font-size="5.72006"><![CDATA[SN 3]]></text>
+<text x="826.394" y="875.671" text-anchor="start" fill="#000000" transform="rotate(0,826.394,875.671)" textLength="18.5875" font-family="OF Helvetica" font-size="5.72006"><![CDATA[95/2.X1]]></text>
+<text x="869.288" y="879.962" text-anchor="start" fill="#000000" transform="rotate(0,869.288,879.962)" textLength="4.2894" font-family="OF Helvetica" font-size="8.58009"><![CDATA[2]]></text>
+<text x="869.288" y="891.403" text-anchor="start" fill="#000000" transform="rotate(0,869.288,891.403)" textLength="16.9174" font-family="OF Helvetica" font-size="8.58009"><![CDATA[X1 2]]></text>
+<text x="831.318" y="894.264" text-anchor="start" fill="#000000" transform="rotate(0,831.318,894.264)" textLength="11.5986" font-family="OF Helvetica" font-size="5.72006"><![CDATA[SN 2]]></text>
+<text x="862.139" y="941.461" text-anchor="start" fill="#000000" transform="rotate(0,862.139,941.461)" textLength="89.8205" font-family="OF Helvetica" font-size="14.3002"><![CDATA[X1:2322730-1]]></text>
+<path d="M830.683,854.218 L859.279,854.218 L830.683,854.218" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3"/>
+<path d="M830.683,882.822 L859.279,882.822 L830.683,882.822" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3"/>
+<path d="M1030.86,854.218 L1059.45,854.218 L1030.86,854.218" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3"/>
+</g>
+<g id="id-7" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050003_]]></meta>
+
+</metadata>
+<text x="97.1923" y="399.406" text-anchor="start" fill="#000000" transform="rotate(0,97.1923,399.406)" textLength="257.365" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_A_Exterior_Lights_Front:10/2.A 6]]></text>
+</g>
+<g id="id-8" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050004_]]></meta>
+
+</metadata>
+<text x="97.1923" y="370.802" text-anchor="start" fill="#000000" transform="rotate(0,97.1923,370.802)" textLength="257.365" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_A_Exterior_Lights_Front:10/2.A 8]]></text>
+</g>
+<g id="id-9" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050005_]]></meta>
+
+</metadata>
+<text x="147.235" y="1085.91" text-anchor="start" fill="#000000" transform="rotate(0,147.235,1085.91)" textLength="207.322" font-family="OF Helvetica" font-size="14.3002"><![CDATA[6A12_A_Power_Locking:6/56.A 5]]></text>
+</g>
+<g id="id-10" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050006_]]></meta>
+
+</metadata>
+<text x="147.235" y="1143.12" text-anchor="start" fill="#000000" transform="rotate(0,147.235,1143.12)" textLength="207.322" font-family="OF Helvetica" font-size="14.3002"><![CDATA[6A12_A_Power_Locking:6/55.A 5]]></text>
+</g>
+<g id="id-11" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050007_]]></meta>
+
+</metadata>
+<text x="154.385" y="84.7571" text-anchor="start" fill="#000000" transform="rotate(0,154.385,84.7571)" textLength="200.173" font-family="OF Helvetica" font-size="14.3002"><![CDATA[6G1_B_Accessories:4/136.X1 1]]></text>
+</g>
+<g id="id-12" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050008_]]></meta>
+
+</metadata>
+<text x="68.5961" y="227.779" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,227.779)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/348.X1 3]]></text>
+</g>
+<g id="id-13" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050009_]]></meta>
+
+</metadata>
+<text x="68.5961" y="284.988" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,284.988)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/350.X1 3]]></text>
+</g>
+<g id="id-14" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050010_]]></meta>
+
+</metadata>
+<text x="118.639" y="1114.52" text-anchor="start" fill="#000000" transform="rotate(0,118.639,1114.52)" textLength="235.918" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8B1_B_Interior_Lights:10/391.X1 4]]></text>
+</g>
+<g id="id-15" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050011_]]></meta>
+
+</metadata>
+<text x="111.49" y="141.966" text-anchor="start" fill="#000000" transform="rotate(0,111.49,141.966)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/351.X1 9]]></text>
+</g>
+<g id="id-16" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050012_]]></meta>
+
+</metadata>
+<text x="111.49" y="199.175" text-anchor="start" fill="#000000" transform="rotate(0,111.49,199.175)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/352.X1 9]]></text>
+</g>
+<g id="id-17" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050013_]]></meta>
+
+</metadata>
+<text x="111.49" y="170.57" text-anchor="start" fill="#000000" transform="rotate(0,111.49,170.57)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/351.X1 8]]></text>
+</g>
+<g id="id-18" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050014_]]></meta>
+
+</metadata>
+<text x="111.49" y="113.362" text-anchor="start" fill="#000000" transform="rotate(0,111.49,113.362)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/291.X1 5]]></text>
+</g>
+<g id="id-19" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050015_]]></meta>
+
+</metadata>
+<text x="82.8942" y="685.451" text-anchor="start" fill="#000000" transform="rotate(0,82.8942,685.451)" textLength="271.663" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B3_A_Passenger_seat_system:22/4.X1 17]]></text>
+</g>
+<g id="id-20" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050016_]]></meta>
+
+</metadata>
+<text x="82.8942" y="1200.33" text-anchor="start" fill="#000000" transform="rotate(0,82.8942,1200.33)" textLength="271.663" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B3_A_Passenger_seat_system:22/4.X1 41]]></text>
+</g>
+<g id="id-21" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050017_]]></meta>
+
+</metadata>
+<text x="90.0432" y="1228.94" text-anchor="start" fill="#000000" transform="rotate(0,90.0432,1228.94)" textLength="264.514" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B3_A_Passenger_seat_system:22/4.X1 4]]></text>
+</g>
+<g id="id-22" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050018_]]></meta>
+
+</metadata>
+<text x="40" y="799.869" text-anchor="start" fill="#000000" transform="rotate(0,40,799.869)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/119.X1 5]]></text>
+</g>
+<g id="id-23" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050019_]]></meta>
+
+</metadata>
+<text x="40" y="742.66" text-anchor="start" fill="#000000" transform="rotate(0,40,742.66)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/118.X1 4]]></text>
+</g>
+<g id="id-24" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050020_]]></meta>
+
+</metadata>
+<text x="40" y="771.264" text-anchor="start" fill="#000000" transform="rotate(0,40,771.264)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/114.X1 4]]></text>
+</g>
+<g id="id-25" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050021_]]></meta>
+
+</metadata>
+<text x="40" y="857.078" text-anchor="start" fill="#000000" transform="rotate(0,40,857.078)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/117.X1 4]]></text>
+</g>
+<g id="id-26" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050022_]]></meta>
+
+</metadata>
+<text x="40" y="828.473" text-anchor="start" fill="#000000" transform="rotate(0,40,828.473)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/115.X1 4]]></text>
+</g>
+<g id="id-27" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050023_]]></meta>
+
+</metadata>
+<text x="40" y="885.682" text-anchor="start" fill="#000000" transform="rotate(0,40,885.682)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/114.X1 5]]></text>
+</g>
+<g id="id-28" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050024_]]></meta>
+
+</metadata>
+<text x="40" y="914.287" text-anchor="start" fill="#000000" transform="rotate(0,40,914.287)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/115.X1 5]]></text>
+</g>
+<g id="id-29" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050025_]]></meta>
+
+</metadata>
+<text x="40" y="942.891" text-anchor="start" fill="#000000" transform="rotate(0,40,942.891)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/117.X1 5]]></text>
+</g>
+<g id="id-30" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050026_]]></meta>
+
+</metadata>
+<text x="40" y="971.496" text-anchor="start" fill="#000000" transform="rotate(0,40,971.496)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/118.X1 5]]></text>
+</g>
+<g id="id-31" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050027_]]></meta>
+
+</metadata>
+<text x="40" y="1000.1" text-anchor="start" fill="#000000" transform="rotate(0,40,1000.1)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/119.X1 4]]></text>
+</g>
+<g id="id-32" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050028_]]></meta>
+
+</metadata>
+<text x="111.49" y="1057.31" text-anchor="start" fill="#000000" transform="rotate(0,111.49,1057.31)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B5_D_2rd_seat_system:94/531.X1 20]]></text>
+</g>
+<g id="id-33" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050029_]]></meta>
+
+</metadata>
+<text x="68.5961" y="256.384" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,256.384)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/349.X1 3]]></text>
+</g>
+<g id="id-34" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050030_]]></meta>
+
+</metadata>
+<text x="68.5961" y="313.593" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,313.593)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/351.X1 3]]></text>
+</g>
+<g id="id-35" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050031_]]></meta>
+
+</metadata>
+<text x="140.086" y="1257.54" text-anchor="start" fill="#000000" transform="rotate(0,140.086,1257.54)" textLength="214.471" font-family="OF Helvetica" font-size="14.3002"><![CDATA[7A3_D_Infotainment:16/440.X3 2]]></text>
+</g>
+<g id="id-36" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050032_]]></meta>
+
+</metadata>
+<text x="75.7452" y="428.011" text-anchor="start" fill="#000000" transform="rotate(0,75.7452,428.011)" textLength="278.812" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_B_Exterior_Lights_Front:10/2.1.X1 1]]></text>
+</g>
+<g id="id-37" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050033_]]></meta>
+
+</metadata>
+<text x="75.7452" y="456.615" text-anchor="start" fill="#000000" transform="rotate(0,75.7452,456.615)" textLength="278.812" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_B_Exterior_Lights_Front:10/2.1.X1 7]]></text>
+</g>
+<g id="id-38" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[reference_connector]]></meta>
+<meta name="tag"><![CDATA[_reference__1050034_]]></meta>
+
+</metadata>
+<text x="75.7452" y="485.22" text-anchor="start" fill="#000000" transform="rotate(0,75.7452,485.22)" textLength="278.812" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_B_Exterior_Lights_Front:10/2.1.X1 8]]></text>
+</g>
+<g id="id-39" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[inline_connector]]></meta>
+<meta name="tag"><![CDATA[_inline25__1050035_]]></meta>
+<meta name="ref"><![CDATA[94/504:13]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1002.26,1083.05 L1017.27,1083.05" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1025.42,1083.05 L1017.27,1083.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1028.85,1083.05 L1045.15,1083.05" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1023.28,1086.7 A3.6456,3.6456 0 1,0, 1023.28,1079.41 " stroke="#000000" fill="none" stroke-width="0.75"/>
+<text x="1050.85" y="1071.67" text-anchor="end" fill="#000000" transform="rotate(0,1050.85,1071.67)" textLength="53.1" font-family="OF Helvetica" font-size="12.1398"><![CDATA[94/504:13]]></text>
+<text x="1040.86" y="1094.48" text-anchor="start" fill="#000000" transform="rotate(0,1040.86,1094.48)" textLength="40.0375" font-family="OF Helvetica" font-size="8.58009"><![CDATA[94/510_BD]]></text>
+<text x="975.093" y="1094.48" text-anchor="start" fill="#000000" transform="rotate(0,975.093,1094.48)" textLength="39.5655" font-family="OF Helvetica" font-size="8.58009"><![CDATA[94/510_RR]]></text>
+<text x="1040.86" y="1123.08" text-anchor="start" fill="#000000" transform="rotate(0,1040.86,1123.08)" textLength="40.0375" font-family="OF Helvetica" font-size="8.58009"><![CDATA[94/504_BD]]></text>
+<text x="975.093" y="1123.08" text-anchor="start" fill="#000000" transform="rotate(0,975.093,1123.08)" textLength="39.0852" font-family="OF Helvetica" font-size="8.58009"><![CDATA[94/504_PD]]></text>
+</g>
+<g id="id-40" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[inline_connector]]></meta>
+<meta name="tag"><![CDATA[_inline25__1050036_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1002.26,1111.66 L1017.27,1111.66" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1025.42,1111.66 L1017.27,1111.66" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1028.85,1111.66 L1045.15,1111.66" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1023.28,1115.3 A3.6456,3.6456 0 1,0, 1023.28,1108.01 " stroke="#000000" fill="none" stroke-width="0.75"/>
+</g>
+<g id="id-41" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[inline_connector]]></meta>
+<meta name="tag"><![CDATA[_inline25__1050037_]]></meta>
+<meta name="ref"><![CDATA[94/100:22]]></meta><meta name="variant"><![CDATA[*opt*]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M945.067,196.314 L960.08,196.314" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M968.23,196.314 L960.08,196.314" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M971.662,196.314 L987.962,196.314" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M966.086,199.96 A3.6456,3.6456 0 1,0, 966.086,192.669 " stroke="#000000" fill="none" stroke-width="0.75"/>
+<text x="993.653" y="184.931" text-anchor="end" fill="#000000" transform="rotate(0,993.653,184.931)" textLength="53.1" font-family="OF Helvetica" font-size="12.1398"><![CDATA[94/100:22]]></text>
+<text x="983.672" y="207.739" text-anchor="start" fill="#000000" transform="rotate(0,983.672,207.739)" textLength="40.0374" font-family="OF Helvetica" font-size="8.58009"><![CDATA[94/100_BD]]></text>
+<text x="919.331" y="207.739" text-anchor="start" fill="#000000" transform="rotate(0,919.331,207.739)" textLength="38.6134" font-family="OF Helvetica" font-size="8.58009"><![CDATA[94/100_FB]]></text>
+</g>
+<g id="id-42" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050038_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BA]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.5</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M945.067,196.315 L930.769,196.315 L644.808,196.315 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="717.271" y="194.026" text-anchor="start" fill="#000000" transform="rotate(0,717.271,194.026)" textLength="106.995" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BA FLRY-B_0.5 BK]]></text>
+<text x="725.85" y="204.896" text-anchor="start" fill="#000000" transform="rotate(0,725.85,204.896)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<ellipse cx="630.51" cy="196.315" rx="5.10384" ry="5.10384" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M630.51,191.576 L630.51,201.054" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M627.229,193.034 L633.791,199.596 L630.51,196.315 L633.791,193.034 L627.229,199.596 L630.51,196.315" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M625.771,196.315 L635.249,196.315" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<text x="640.519" y="220.628" text-anchor="start" fill="#000000" transform="rotate(0,640.519,220.628)" textLength="52.9058" font-family="OF Helvetica" font-size="8.58009"><![CDATA[SP_GAAH05B]]></text>
+</g>
+<g id="id-43" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050039_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BE]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,139.106 L601.914,139.106 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="467.14" y="136.817" text-anchor="start" fill="#000000" transform="rotate(0,467.14,136.817)" textLength="110.332" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BE FLRY-B_0.35 BK]]></text>
+<text x="471.43" y="147.687" text-anchor="start" fill="#000000" transform="rotate(0,471.43,147.687)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,131.954 L373.145,139.106 L365.996,146.257" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,131.954 L380.294,139.106 L373.145,146.257" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-44" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050040_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BH]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,110.501 L601.914,110.501 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="503.3" y="108.213" text-anchor="start" fill="#000000" transform="rotate(0,503.3,108.213)" textLength="111.285" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BH FLRY-B_0.35 BK]]></text>
+<text x="503.3" y="118.367" text-anchor="start" fill="#000000" transform="rotate(0,503.3,118.367)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,103.35 L373.145,110.501 L365.996,117.652" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,103.35 L380.294,110.501 L373.145,117.652" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-45" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050041_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BF]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,196.315 L616.212,196.315 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="472.86" y="194.026" text-anchor="start" fill="#000000" transform="rotate(0,472.86,194.026)" textLength="109.861" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BF FLRY-B_0.35 BK]]></text>
+<text x="472.86" y="204.181" text-anchor="start" fill="#000000" transform="rotate(0,472.86,204.181)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,189.163 L373.145,196.315 L365.996,203.466" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,189.163 L380.294,196.315 L373.145,203.466" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-46" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050042_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BK]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,282.128 L601.914,282.128 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="471.859" y="279.84" text-anchor="start" fill="#000000" transform="rotate(0,471.859,279.84)" textLength="111.285" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BK FLRY-B_0.35 BK]]></text>
+<text x="471.859" y="290.709" text-anchor="start" fill="#000000" transform="rotate(0,471.859,290.709)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,274.977 L373.145,282.128 L365.996,289.279" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,274.977 L380.294,282.128 L373.145,289.279" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-47" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050043_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BJ]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,224.919 L601.914,224.919 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="460.62" y="222.059" text-anchor="start" fill="#000000" transform="rotate(0,460.62,222.059)" textLength="108.428" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BJ FLRY-B_0.35 BK]]></text>
+<text x="460.749" y="232.07" text-anchor="start" fill="#000000" transform="rotate(0,460.749,232.07)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,217.768 L373.145,224.919 L365.996,232.07" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,217.768 L380.294,224.919 L373.145,232.07" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-48" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050044_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BB]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[H2A7]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M380.294,81.8966 L630.51,81.8966 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="504.458" y="79.0362" text-anchor="start" fill="#000000" transform="rotate(0,504.458,79.0362)" textLength="110.813" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BB FLRY-B_0.35 BK]]></text>
+<text x="507.318" y="89.7628" text-anchor="start" fill="#000000" transform="rotate(0,507.318,89.7628)" textLength="33.6032" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB H2A7]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,74.7455 L373.145,81.8966 L365.996,89.0477" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,74.7455 L380.294,81.8966 L373.145,89.0477" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-49" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050045_]]></meta>
+<meta name="ref"><![CDATA[GAAH05BD]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,167.71 L601.914,167.71 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="478.393" y="165.422" text-anchor="start" fill="#000000" transform="rotate(0,478.393,165.422)" textLength="111.285" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05BD FLRY-B_0.35 BK]]></text>
+<text x="478.393" y="175.576" text-anchor="start" fill="#000000" transform="rotate(0,478.393,175.576)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,160.559 L373.145,167.71 L365.996,174.861" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,160.559 L380.294,167.71 L373.145,174.861" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-50" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050046_]]></meta>
+<meta name="ref"><![CDATA[GAAH05B]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1259.62,367.941 L1259.62,339.337 L1259.62,196.315 L1016.56,196.315 L987.962,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1106.82" y="194.026" text-anchor="start" fill="#000000" transform="rotate(0,1106.82,194.026)" textLength="100.801" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05B FLRY-B_0.5 BK]]></text>
+<text x="1111.11" y="204.896" text-anchor="start" fill="#000000" transform="rotate(0,1111.11,204.896)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<ellipse cx="1259.62" cy="367.941" rx="5.10384" ry="5.10384" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M1259.62,363.202 L1259.62,372.68" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1256.34,364.66 L1262.91,371.222 L1259.62,367.941 L1262.91,364.66 L1256.34,371.222 L1259.62,367.941" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1254.89,367.941 L1264.36,367.941" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<text x="1236.75" y="387.965" text-anchor="start" fill="#000000" transform="rotate(0,1236.75,387.965)" textLength="53.3775" font-family="OF Helvetica" font-size="8.58009"><![CDATA[SP_GAAH05A]]></text>
+</g>
+<g id="id-51" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050047_]]></meta>
+<meta name="ref"><![CDATA[GAAN05H]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M830.683,854.218 L816.385,854.218 L644.808,854.218 L630.51,854.218" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="697.253" y="851.929" text-anchor="start" fill="#000000" transform="rotate(0,697.253,851.929)" textLength="101.273" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05H FLRY-B_0.5 BK]]></text>
+<text x="697.253" y="862.084" text-anchor="start" fill="#000000" transform="rotate(0,697.253,862.084)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="854.218" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<ellipse cx="630.51" cy="854.217" rx="5.10384" ry="5.10384" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M630.51,849.478 L630.51,858.956" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M627.229,850.936 L633.791,857.498 L630.51,854.217 L633.791,850.936 L627.229,857.498 L630.51,854.217" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M625.771,854.217 L635.249,854.217" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<text x="607.633" y="902.845" text-anchor="start" fill="#000000" transform="rotate(0,607.633,902.845)" textLength="52.4253" font-family="OF Helvetica" font-size="8.58009"><![CDATA[SP_GAAN05E]]></text>
+</g>
+<g id="id-52" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050048_]]></meta>
+<meta name="ref"><![CDATA[GAAN05J]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M830.683,882.822 L816.385,882.822 L644.808,882.822 L630.51,882.822" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="697.253" y="880.534" text-anchor="start" fill="#000000" transform="rotate(0,697.253,880.534)" textLength="98.4164" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05J FLRY-B_0.5 BK]]></text>
+<text x="697.253" y="890.688" text-anchor="start" fill="#000000" transform="rotate(0,697.253,890.688)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="882.822" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<ellipse cx="630.51" cy="882.822" rx="5.10384" ry="5.10384" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M630.51,878.083 L630.51,887.561" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M627.229,879.541 L633.791,886.103 L630.51,882.822 L633.791,879.541 L627.229,886.103 L630.51,882.822" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M625.771,882.822 L635.249,882.822" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<text x="607.633" y="874.241" text-anchor="start" fill="#000000" transform="rotate(0,607.633,874.241)" textLength="53.3775" font-family="OF Helvetica" font-size="8.58009"><![CDATA[SP_GAAN05D]]></text>
+</g>
+<g id="id-53" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050049_]]></meta>
+<meta name="ref"><![CDATA[GAAN05BC]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">PD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,1140.26 L730.597,1140.26 L744.895,1111.66" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="538.359" y="1137.97" text-anchor="start" fill="#000000" transform="rotate(0,538.359,1137.97)" textLength="110.813" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05BC FLRY-B_0.35 BK]]></text>
+<text x="538.359" y="1148.13" text-anchor="start" fill="#000000" transform="rotate(0,538.359,1148.13)" textLength="29.7857" font-family="OF Helvetica" font-size="8.58009"><![CDATA[PD ALL]]></text>
+<ellipse cx="744.895" cy="1111.66" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<ellipse cx="744.895" cy="1111.66" rx="5.10384" ry="5.10384" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M744.895,1106.92 L744.895,1116.4" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M741.614,1108.38 L748.176,1114.94 L744.895,1111.66 L748.176,1108.38 L741.614,1114.94 L744.895,1111.66" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M740.156,1111.66 L749.634,1111.66" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<text x="722.018" y="1131.68" text-anchor="start" fill="#000000" transform="rotate(0,722.018,1131.68)" textLength="52.9057" font-family="OF Helvetica" font-size="8.58009"><![CDATA[SP_GAAN05C]]></text>
+<path d="M365.996,1133.11 L373.145,1140.26 L365.996,1147.41" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1133.11 L380.294,1140.26 L373.145,1147.41" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-54" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050050_]]></meta>
+<meta name="ref"><![CDATA[GAAN05BF]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">PD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,1111.66 L730.597,1111.66 L744.895,1111.66" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="530.052" y="1109.37" text-anchor="start" fill="#000000" transform="rotate(0,530.052,1109.37)" textLength="109.861" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05BF FLRY-B_0.35 BK]]></text>
+<text x="530.052" y="1119.52" text-anchor="start" fill="#000000" transform="rotate(0,530.052,1119.52)" textLength="29.7857" font-family="OF Helvetica" font-size="8.58009"><![CDATA[PD ALL]]></text>
+<ellipse cx="744.895" cy="1111.66" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,1104.51 L373.145,1111.66 L365.996,1118.81" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1104.51 L380.294,1111.66 L373.145,1118.81" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-55" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050051_]]></meta>
+<meta name="ref"><![CDATA[GAAN05BB]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">PD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1002.26,1111.66 L987.962,1111.66 L759.193,1111.66 L744.895,1111.66" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="815.927" y="1109.37" text-anchor="start" fill="#000000" transform="rotate(0,815.927,1109.37)" textLength="110.813" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05BB FLRY-B_0.35 BK]]></text>
+<text x="818.787" y="1120.24" text-anchor="start" fill="#000000" transform="rotate(0,818.787,1120.24)" textLength="29.7858" font-family="OF Helvetica" font-size="8.58009"><![CDATA[PD ALL]]></text>
+<ellipse cx="744.895" cy="1111.66" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+</g>
+<g id="id-56" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050052_]]></meta>
+<meta name="ref"><![CDATA[GAAN05F]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L1231.03,1226.08 L380.294,1226.08" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="804.546" y="1223.79" text-anchor="start" fill="#000000" transform="rotate(0,804.546,1223.79)" textLength="104.139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05F FLRY-B_0.35 BK]]></text>
+<text x="804.546" y="1233.94" text-anchor="start" fill="#000000" transform="rotate(0,804.546,1233.94)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<ellipse cx="1288.22" cy="1197.47" rx="5.10384" ry="5.10384" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M1288.22,1192.73 L1288.22,1202.21" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1284.94,1194.19 L1291.5,1200.75 L1288.22,1197.47 L1291.5,1194.19 L1284.94,1200.75 L1288.22,1197.47" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<path d="M1283.48,1197.47 L1292.96,1197.47" fill="none" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.75"/>
+<text x="1312.53" y="1216.06" text-anchor="start" fill="#000000" transform="rotate(0,1312.53,1216.06)" textLength="53.3775" font-family="OF Helvetica" font-size="8.58009"><![CDATA[SP_GAAN05A]]></text>
+<path d="M365.996,1218.92 L373.145,1226.08 L365.996,1233.23" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1218.92 L380.294,1226.08 L373.145,1233.23" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-57" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050053_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AP]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,882.822 L616.212,997.24 L380.294,997.24" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="523.332" y="994.952" text-anchor="start" fill="#000000" transform="rotate(0,523.332,994.952)" textLength="106.043" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AP FLRY-B_0.5 BK]]></text>
+<text x="523.332" y="1005.11" text-anchor="start" fill="#000000" transform="rotate(0,523.332,1005.11)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="882.822" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,990.089 L373.145,997.24 L365.996,1004.39" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,990.089 L380.294,997.24 L373.145,1004.39" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-58" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050054_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AN]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,882.822 L616.212,968.635 L380.294,968.635" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="508.862" y="966.347" text-anchor="start" fill="#000000" transform="rotate(0,508.862,966.347)" textLength="107.467" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AN FLRY-B_0.5 BK]]></text>
+<text x="508.862" y="976.502" text-anchor="start" fill="#000000" transform="rotate(0,508.862,976.502)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="882.822" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,961.484 L373.145,968.635 L365.996,975.786" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,961.484 L380.294,968.635 L373.145,975.786" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-59" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050055_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AM]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,882.822 L616.212,940.031 L380.294,940.031" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="494.693" y="937.743" text-anchor="start" fill="#000000" transform="rotate(0,494.693,937.743)" textLength="108.9" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AM FLRY-B_0.5 BK]]></text>
+<text x="494.693" y="947.897" text-anchor="start" fill="#000000" transform="rotate(0,494.693,947.897)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="882.822" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,932.88 L373.145,940.031 L365.996,947.182" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,932.88 L380.294,940.031 L373.145,947.182" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-60" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050056_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AL]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,882.822 L616.212,911.426 L380.294,911.426" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="481.539" y="909.138" text-anchor="start" fill="#000000" transform="rotate(0,481.539,909.138)" textLength="106.515" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AL FLRY-B_0.5 BK]]></text>
+<text x="481.539" y="919.293" text-anchor="start" fill="#000000" transform="rotate(0,481.539,919.293)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="882.822" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,904.275 L373.145,911.426 L365.996,918.578" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,904.275 L380.294,911.426 L373.145,918.578" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-61" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050057_]]></meta>
+<meta name="ref"><![CDATA[GAAH05AB]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OPT01]]></meta><meta name="harness">BD</meta><meta name="area">1.0</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M380.294,367.941 L1245.33,367.941 L1259.62,367.941" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="695.166" y="365.081" text-anchor="start" fill="#000000" transform="rotate(0,695.166,365.081)" textLength="106.995" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05AB FLRY-B_1.0 BK]]></text>
+<text x="695.166" y="376.523" text-anchor="start" fill="#000000" transform="rotate(0,695.166,376.523)" textLength="38.8449" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OPT01]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,360.79 L373.145,367.941 L365.996,375.092" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,360.79 L380.294,367.941 L373.145,375.092" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-62" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050058_]]></meta>
+<meta name="ref"><![CDATA[GAAH05A]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">1.5</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1688.57,367.941 L1259.62,367.941" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1417.98" y="365.081" text-anchor="start" fill="#000000" transform="rotate(0,1417.98,365.081)" textLength="101.273" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05A FLRY-B_1.5 BK]]></text>
+<text x="1426.55" y="376.523" text-anchor="start" fill="#000000" transform="rotate(0,1426.55,376.523)" textLength="30.7379" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M1688.57,367.941 L1688.57,382.244" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1705.72" y="383.674" text-anchor="start" fill="#000000" transform="rotate(0,1705.72,383.674)" textLength="2.8596" font-family="OF Helvetica" font-size="5.72006"><![CDATA[1]]></text>
+<text x="1666.86" y="375.092" text-anchor="start" fill="#000000" transform="rotate(0,1666.86,375.092)" textLength="21.4471" font-family="OF Helvetica" font-size="5.72006"><![CDATA[31/42.X1]]></text>
+</g>
+<g id="id-63" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050059_]]></meta>
+<meta name="ref"><![CDATA[GAAH05AA]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OPT01]]></meta><meta name="harness">BD</meta><meta name="area">1.0</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M380.294,396.546 L1231.03,396.546 L1259.62,367.941" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="667.656" y="393.685" text-anchor="start" fill="#000000" transform="rotate(0,667.656,393.685)" textLength="107.467" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05AA FLRY-B_1.0 BK]]></text>
+<text x="669.086" y="407.988" text-anchor="start" fill="#000000" transform="rotate(0,669.086,407.988)" textLength="38.845" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OPT01]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,389.395 L373.145,396.546 L365.996,403.697" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,389.395 L380.294,396.546 L373.145,403.697" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-64" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050060_]]></meta>
+<meta name="ref"><![CDATA[GAAN05D]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[HBA4||HB09]]></meta><meta name="harness">BD</meta><meta name="area">2.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1688.57,1311.89 L1717.16,1283.28 L1717.16,682.591 L380.294,682.591" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1336.36" y="680.302" text-anchor="start" fill="#000000" transform="rotate(0,1336.36,680.302)" textLength="101.273" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05D FLRY-B_2.5 BK]]></text>
+<text x="1336.36" y="690.457" text-anchor="start" fill="#000000" transform="rotate(0,1336.36,690.457)" textLength="60.3865" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD HBA4||HB09]]></text>
+<path d="M1688.57,1311.89 L1688.57,1326.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M365.996,675.439 L373.145,682.591 L365.996,689.742" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,675.439 L380.294,682.591 L373.145,689.742" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1704.29" y="1319.04" text-anchor="start" fill="#000000" transform="rotate(0,1704.29,1319.04)" textLength="28.5962" font-family="OF Helvetica" font-size="5.72006"><![CDATA[31/109.1.X1]]></text>
+</g>
+<g id="id-65" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050061_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AG]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,854.218 L616.212,739.8 L380.294,739.8" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="523.332" y="737.511" text-anchor="start" fill="#000000" transform="rotate(0,523.332,737.511)" textLength="107.467" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AG FLRY-B_0.5 BK]]></text>
+<text x="523.332" y="747.666" text-anchor="start" fill="#000000" transform="rotate(0,523.332,747.666)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="854.218" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,732.648 L373.145,739.8 L365.996,746.951" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,732.648 L380.294,739.8 L373.145,746.951" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-66" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050062_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AH]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,854.218 L616.212,768.404 L380.294,768.404" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="508.862" y="766.116" text-anchor="start" fill="#000000" transform="rotate(0,508.862,766.116)" textLength="107.467" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AH FLRY-B_0.5 BK]]></text>
+<text x="508.862" y="776.27" text-anchor="start" fill="#000000" transform="rotate(0,508.862,776.27)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="854.218" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,761.253 L373.145,768.404 L365.996,775.555" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,761.253 L380.294,768.404 L373.145,775.555" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-67" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050063_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AJ]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,854.218 L616.212,797.009 L380.294,797.009" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="494.693" y="794.72" text-anchor="start" fill="#000000" transform="rotate(0,494.693,794.72)" textLength="104.61" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AJ FLRY-B_0.5 BK]]></text>
+<text x="494.693" y="804.875" text-anchor="start" fill="#000000" transform="rotate(0,494.693,804.875)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="854.218" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,789.857 L373.145,797.009 L365.996,804.16" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,789.857 L380.294,797.009 L373.145,804.16" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-68" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050064_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AK]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,854.218 L616.212,825.613 L380.294,825.613" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="481.539" y="823.325" text-anchor="start" fill="#000000" transform="rotate(0,481.539,823.325)" textLength="107.467" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AK FLRY-B_0.5 BK]]></text>
+<text x="481.539" y="833.479" text-anchor="start" fill="#000000" transform="rotate(0,481.539,833.479)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="854.218" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,818.462 L373.145,825.613 L365.996,832.764" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,818.462 L380.294,825.613 L373.145,832.764" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-69" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050065_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AE]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,854.218 L616.212,854.218 L380.294,854.218" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="472.173" y="851.929" text-anchor="start" fill="#000000" transform="rotate(0,472.173,851.929)" textLength="106.515" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AE FLRY-B_0.5 BK]]></text>
+<text x="472.173" y="862.084" text-anchor="start" fill="#000000" transform="rotate(0,472.173,862.084)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="854.218" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,847.066 L373.145,854.218 L365.996,861.369" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,847.066 L380.294,854.218 L373.145,861.369" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-70" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050066_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AF]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M630.51,882.822 L616.212,882.822 L380.294,882.822" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="472.173" y="880.534" text-anchor="start" fill="#000000" transform="rotate(0,472.173,880.534)" textLength="106.043" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AF FLRY-B_0.5 BK]]></text>
+<text x="472.173" y="890.688" text-anchor="start" fill="#000000" transform="rotate(0,472.173,890.688)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="630.51" cy="882.822" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,875.671 L373.145,882.822 L365.996,889.973" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,875.671 L380.294,882.822 L373.145,889.973" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-71" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050067_]]></meta>
+<meta name="ref"><![CDATA[GAAN05K]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L1316.82,1140.26 L1316.82,1054.45 L380.294,1054.45" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="887.334" y="1052.16" text-anchor="start" fill="#000000" transform="rotate(0,887.334,1052.16)" textLength="105.563" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05K FLRY-B_0.35 BK]]></text>
+<text x="887.334" y="1062.32" text-anchor="start" fill="#000000" transform="rotate(0,887.334,1062.32)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,1047.3 L373.145,1054.45 L365.996,1061.6" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1047.3 L380.294,1054.45 L373.145,1061.6" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-72" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050068_]]></meta>
+<meta name="ref"><![CDATA[GAAN05AB]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">RR</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,1083.05 L987.962,1083.05 L1002.26,1083.05" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="658.277" y="1080.76" text-anchor="start" fill="#000000" transform="rotate(0,658.277,1080.76)" textLength="111.285" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05AB FLRY-B_0.35 BK]]></text>
+<text x="658.277" y="1090.92" text-anchor="start" fill="#000000" transform="rotate(0,658.277,1090.92)" textLength="30.2662" font-family="OF Helvetica" font-size="8.58009"><![CDATA[RR ALL]]></text>
+<path d="M365.996,1075.9 L373.145,1083.05 L365.996,1090.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1075.9 L380.294,1083.05 L373.145,1090.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-73" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050069_]]></meta>
+<meta name="ref"><![CDATA[GAAN05G]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[K303]]></meta><meta name="harness">BD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L380.294,1197.47" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="801.486" y="1195.18" text-anchor="start" fill="#000000" transform="rotate(0,801.486,1195.18)" textLength="105.563" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05G FLRY-B_0.35 BK]]></text>
+<text x="801.486" y="1205.34" text-anchor="start" fill="#000000" transform="rotate(0,801.486,1205.34)" textLength="33.123" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD K303]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,1190.32 L373.145,1197.47 L365.996,1204.62" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1190.32 L380.294,1197.47 L373.145,1204.62" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-74" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050070_]]></meta>
+<meta name="ref"><![CDATA[GAAN05C]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[HBA4||HB09]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L1316.82,1197.47 L1688.57,1197.47 L1688.57,1283.28 L1688.57,1311.89" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1454.08" y="1195.18" text-anchor="start" fill="#000000" transform="rotate(0,1454.08,1195.18)" textLength="100.801" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05C FLRY-B_0.5 BK]]></text>
+<text x="1456.94" y="1206.05" text-anchor="start" fill="#000000" transform="rotate(0,1456.94,1206.05)" textLength="60.3864" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD HBA4||HB09]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+</g>
+<g id="id-75" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050071_]]></meta>
+<meta name="ref"><![CDATA[GAAN05B]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[HB01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1574.18,1311.89 L1574.18,1283.28 L1574.18,1226.08 L1316.82,1226.08 L1288.22,1197.47" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1435.22" y="1223.79" text-anchor="start" fill="#000000" transform="rotate(0,1435.22,1223.79)" textLength="100.801" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05B FLRY-B_0.5 BK]]></text>
+<text x="1435.22" y="1233.94" text-anchor="start" fill="#000000" transform="rotate(0,1435.22,1233.94)" textLength="34.5556" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD HB01]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M1574.18,1311.89 L1574.18,1326.19" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1589.91" y="1319.04" text-anchor="start" fill="#000000" transform="rotate(0,1589.91,1319.04)" textLength="24.3067" font-family="OF Helvetica" font-size="5.72006"><![CDATA[31/109.X1]]></text>
+</g>
+<g id="id-76" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050072_]]></meta>
+<meta name="ref"><![CDATA[GAAN05E]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L1288.22,1168.87 L1288.22,1083.05 L1073.75,1083.05 L1045.15,1083.05" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1150.73" y="1080.76" text-anchor="start" fill="#000000" transform="rotate(0,1150.73,1080.76)" textLength="104.61" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05E FLRY-B_0.35 BK]]></text>
+<text x="1190.77" y="1090.92" text-anchor="start" fill="#000000" transform="rotate(0,1190.77,1090.92)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+</g>
+<g id="id-77" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050073_]]></meta>
+<meta name="ref"><![CDATA[GAAN05BA]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L1259.62,1140.26 L1259.62,1111.66 L1073.75,1111.66 L1045.15,1111.66" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1166.14" y="1109.37" text-anchor="start" fill="#000000" transform="rotate(0,1166.14,1109.37)" textLength="111.285" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05BA FLRY-B_0.35 BK]]></text>
+<text x="1166.14" y="1119.52" text-anchor="start" fill="#000000" transform="rotate(0,1166.14,1119.52)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+</g>
+<g id="id-78" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050074_]]></meta>
+<meta name="ref"><![CDATA[GAAN05A]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[OP01]]></meta><meta name="harness">BD</meta><meta name="area">0.5</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1288.22,1197.47 L1345.41,1168.87 L1345.41,854.218 L1059.45,854.218" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1136.66" y="848.697" text-anchor="start" fill="#000000" transform="rotate(0,1136.66,848.697)" textLength="101.273" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05A FLRY-B_0.5 BK]]></text>
+<text x="1146.67" y="864.429" text-anchor="start" fill="#000000" transform="rotate(0,1146.67,864.429)" textLength="33.6033" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD OP01]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+</g>
+<g id="id-79" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050075_]]></meta>
+<meta name="ref"><![CDATA[GAAH05C]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,253.523 L601.914,253.523 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="490.389" y="251.235" text-anchor="start" fill="#000000" transform="rotate(0,490.389,251.235)" textLength="105.091" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05C FLRY-B_0.35 BK]]></text>
+<text x="490.389" y="261.39" text-anchor="start" fill="#000000" transform="rotate(0,490.389,261.39)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,246.372 L373.145,253.523 L365.996,260.675" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,246.372 L380.294,253.523 L373.145,260.675" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-80" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050076_]]></meta>
+<meta name="ref"><![CDATA[GAAH05D]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">FB</meta><meta name="area">0.35</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,310.732 L630.51,310.732 L630.51,196.315" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="487.901" y="308.444" text-anchor="start" fill="#000000" transform="rotate(0,487.901,308.444)" textLength="105.563" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05D FLRY-B_0.35 BK]]></text>
+<text x="490.761" y="319.314" text-anchor="start" fill="#000000" transform="rotate(0,490.761,319.314)" textLength="29.3139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[FB ALL]]></text>
+<ellipse cx="630.51" cy="196.315" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,303.581 L373.145,310.732 L365.996,317.884" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,303.581 L380.294,310.732 L373.145,317.884" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-81" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050077_]]></meta>
+<meta name="ref"><![CDATA[GAAN05L]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[NA02]]></meta><meta name="harness">BD</meta><meta name="area">0.35</meta><meta name="signal">GAAN05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M380.294,1254.68 L1273.92,1254.68 L1288.22,1197.47" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="823.391" y="1252.39" text-anchor="start" fill="#000000" transform="rotate(0,823.391,1252.39)" textLength="104.61" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAN05L FLRY-B_0.35 BK]]></text>
+<text x="823.391" y="1262.55" text-anchor="start" fill="#000000" transform="rotate(0,823.391,1262.55)" textLength="35.0274" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD NA02]]></text>
+<ellipse cx="1288.22" cy="1197.47" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,1247.53 L373.145,1254.68 L365.996,1261.83" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,1247.53 L380.294,1254.68 L373.145,1261.83" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-82" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050078_]]></meta>
+<meta name="ref"><![CDATA[GAAH05F]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.75</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,425.15 L1245.33,425.15 L1259.62,367.941" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="809.565" y="422.862" text-anchor="start" fill="#000000" transform="rotate(0,809.565,422.862)" textLength="104.139" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05F FLRY-B_0.75 BK]]></text>
+<text x="809.565" y="433.017" text-anchor="start" fill="#000000" transform="rotate(0,809.565,433.017)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,417.999 L373.145,425.15 L365.996,432.301" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,417.999 L380.294,425.15 L373.145,432.301" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-83" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050079_]]></meta>
+<meta name="ref"><![CDATA[GAAH05G]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.75</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,453.755 L1245.33,453.755 L1259.62,367.941" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="823.391" y="451.466" text-anchor="start" fill="#000000" transform="rotate(0,823.391,451.466)" textLength="105.563" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05G FLRY-B_0.75 BK]]></text>
+<text x="823.391" y="461.621" text-anchor="start" fill="#000000" transform="rotate(0,823.391,461.621)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,446.604 L373.145,453.755 L365.996,460.906" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,446.604 L380.294,453.755 L373.145,460.906" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-84" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050080_]]></meta>
+<meta name="ref"><![CDATA[GAAH05H]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[ALL]]></meta><meta name="harness">BD</meta><meta name="area">0.75</meta><meta name="signal">GAAH05</meta><meta name="color">BK</meta><meta name="option_description"><![CDATA[STD]]></meta>
+</metadata>
+<path d="M380.294,482.359 L1245.33,482.359 L1259.62,367.941" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="837.232" y="480.071" text-anchor="start" fill="#000000" transform="rotate(0,837.232,480.071)" textLength="105.563" font-family="OF Helvetica" font-size="8.58009"><![CDATA[GAAH05H FLRY-B_0.75 BK]]></text>
+<text x="837.232" y="490.226" text-anchor="start" fill="#000000" transform="rotate(0,837.232,490.226)" textLength="30.738" font-family="OF Helvetica" font-size="8.58009"><![CDATA[BD ALL]]></text>
+<ellipse cx="1259.62" cy="367.941" rx="0.9114" ry="0.9114" stroke="#000000" fill="#000000" stroke-width="0.75"/>
+<path d="M365.996,475.208 L373.145,482.359 L365.996,489.51" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M373.145,475.208 L380.294,482.359 L373.145,489.51" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-85" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050081_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1688.57,396.546 L1688.57,425.15" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<ellipse cx="1688.57" cy="389.395" rx="7.14901" ry="7.15111" stroke="#000000" fill="none" stroke-width="0.75"/>
+<ellipse cx="1688.57" cy="389.395" rx="4.76595" ry="4.76742" stroke="#000000" fill="none" stroke-width="0.75"/>
+</g>
+<g id="id-86" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050082_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1659.97,425.15 L1717.16,425.15" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-87" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050083_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1671.41,439.453 L1705.72,439.453" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M1682.85,453.755 L1694.29,453.755" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1669.98" y="482.359" text-anchor="start" fill="#000000" transform="rotate(0,1669.98,482.359)" textLength="139.406" font-family="OF Helvetica" font-size="7.15008"><![CDATA[31/42 GROUND_ASSY-SIDEMEMBER FRONT RH 1]]></text>
+<text x="1669.98" y="498.092" text-anchor="start" fill="#000000" transform="rotate(0,1669.98,498.092)" textLength="46.4686" font-family="OF Helvetica" font-size="7.15008"><![CDATA[X1:RSD2L0108B]]></text>
+</g>
+<g id="id-88" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050084_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1574.18,1340.49 L1574.18,1369.1" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<ellipse cx="1574.18" cy="1333.34" rx="7.14909" ry="7.15109" stroke="#000000" fill="none" stroke-width="0.75"/>
+<ellipse cx="1574.18" cy="1333.34" rx="4.76603" ry="4.76738" stroke="#000000" fill="none" stroke-width="0.75"/>
+</g>
+<g id="id-89" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050085_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1545.59,1369.1 L1602.78,1369.1" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-90" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050086_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1557.02,1383.4 L1591.34,1383.4" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M1568.46,1397.7 L1579.9,1397.7" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1555.59" y="1426.31" text-anchor="start" fill="#000000" transform="rotate(0,1555.59,1426.31)" textLength="100.086" font-family="OF Helvetica" font-size="7.15008"><![CDATA[31/109 GROUND B-POST RIGHT 1]]></text>
+<text x="1555.59" y="1442.04" text-anchor="start" fill="#000000" transform="rotate(0,1555.59,1442.04)" textLength="42.8942" font-family="OF Helvetica" font-size="7.15008"><![CDATA[X1:ST477-Z6A]]></text>
+</g>
+<g id="id-91" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050087_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1688.57,1340.49 L1688.57,1369.1" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<ellipse cx="1688.57" cy="1333.34" rx="7.14901" ry="7.15109" stroke="#000000" fill="none" stroke-width="0.75"/>
+<ellipse cx="1688.57" cy="1333.34" rx="4.76595" ry="4.76738" stroke="#000000" fill="none" stroke-width="0.75"/>
+</g>
+<g id="id-92" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050088_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1659.97,1369.1 L1717.16,1369.1" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+</g>
+<g id="id-93" class="wire">
+<metadata>
+<meta name="type"><![CDATA[physical_wire]]></meta>
+<meta name="tag"><![CDATA[w_1050089_]]></meta>
+<meta name="ref"><![CDATA[]]></meta><meta name="variant"><![CDATA[KX11]]></meta><meta name="option"><![CDATA[]]></meta><meta name="harness"></meta><meta name="area"></meta><meta name="signal"></meta><meta name="color"></meta><meta name="option_description"><![CDATA[]]></meta>
+</metadata>
+<path d="M1671.41,1383.4 L1705.72,1383.4" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<path d="M1682.85,1397.7 L1694.29,1397.7" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.75"/>
+<text x="1669.98" y="1426.31" text-anchor="start" fill="#000000" transform="rotate(0,1669.98,1426.31)" textLength="107.236" font-family="OF Helvetica" font-size="7.15008"><![CDATA[31/109.1 GROUND B-POST RIGHT 1]]></text>
+<text x="1669.98" y="1442.04" text-anchor="start" fill="#000000" transform="rotate(0,1669.98,1442.04)" textLength="53.6177" font-family="OF Helvetica" font-size="7.15008"><![CDATA[X1:K031668L-6-5]]></text>
+</g>
+<g id="id-100" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[95/2]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="826.394" y="847.066" text-anchor="start" fill="#000000" transform="rotate(0,826.394,847.066)" textLength="18.5875" font-family="OF Helvetica" font-size="5.72006"><![CDATA[95/2.X1]]></text>
+</g>
+<g id="id-101" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[10/2]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="97.1923" y="399.406" text-anchor="start" fill="#000000" transform="rotate(0,97.1923,399.406)" textLength="257.365" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_A_Exterior_Lights_Front:10/2.A 6]]></text>
+</g>
+<g id="id-102" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[10/2]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="97.1923" y="370.802" text-anchor="start" fill="#000000" transform="rotate(0,97.1923,370.802)" textLength="257.365" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_A_Exterior_Lights_Front:10/2.A 8]]></text>
+</g>
+<g id="id-103" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[6/56]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="147.235" y="1085.91" text-anchor="start" fill="#000000" transform="rotate(0,147.235,1085.91)" textLength="207.322" font-family="OF Helvetica" font-size="14.3002"><![CDATA[6A12_A_Power_Locking:6/56.A 5]]></text>
+</g>
+<g id="id-104" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[6/55]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="147.235" y="1143.12" text-anchor="start" fill="#000000" transform="rotate(0,147.235,1143.12)" textLength="207.322" font-family="OF Helvetica" font-size="14.3002"><![CDATA[6A12_A_Power_Locking:6/55.A 5]]></text>
+</g>
+<g id="id-105" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[4/136]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="154.385" y="84.7571" text-anchor="start" fill="#000000" transform="rotate(0,154.385,84.7571)" textLength="200.173" font-family="OF Helvetica" font-size="14.3002"><![CDATA[6G1_B_Accessories:4/136.X1 1]]></text>
+</g>
+<g id="id-106" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[7/348]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="68.5961" y="227.779" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,227.779)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/348.X1 3]]></text>
+</g>
+<g id="id-107" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[7/350]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="68.5961" y="284.988" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,284.988)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/350.X1 3]]></text>
+</g>
+<g id="id-108" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[10/391]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="118.639" y="1114.52" text-anchor="start" fill="#000000" transform="rotate(0,118.639,1114.52)" textLength="235.918" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8B1_B_Interior_Lights:10/391.X1 4]]></text>
+</g>
+<g id="id-109" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[4/351]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="111.49" y="141.966" text-anchor="start" fill="#000000" transform="rotate(0,111.49,141.966)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/351.X1 9]]></text>
+</g>
+<g id="id-110" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[4/352]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="111.49" y="199.175" text-anchor="start" fill="#000000" transform="rotate(0,111.49,199.175)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/352.X1 9]]></text>
+</g>
+<g id="id-111" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[4/351]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="111.49" y="170.57" text-anchor="start" fill="#000000" transform="rotate(0,111.49,170.57)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/351.X1 8]]></text>
+</g>
+<g id="id-112" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[4/291]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="111.49" y="113.362" text-anchor="start" fill="#000000" transform="rotate(0,111.49,113.362)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4B1_B_Visual_Assistance:4/291.X1 5]]></text>
+</g>
+<g id="id-113" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[22/4]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="82.8942" y="685.451" text-anchor="start" fill="#000000" transform="rotate(0,82.8942,685.451)" textLength="271.663" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B3_A_Passenger_seat_system:22/4.X1 17]]></text>
+</g>
+<g id="id-114" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[22/4]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="82.8942" y="1200.33" text-anchor="start" fill="#000000" transform="rotate(0,82.8942,1200.33)" textLength="271.663" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B3_A_Passenger_seat_system:22/4.X1 41]]></text>
+</g>
+<g id="id-115" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[22/4]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="90.0432" y="1228.94" text-anchor="start" fill="#000000" transform="rotate(0,90.0432,1228.94)" textLength="264.514" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B3_A_Passenger_seat_system:22/4.X1 4]]></text>
+</g>
+<g id="id-116" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/119]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="799.869" text-anchor="start" fill="#000000" transform="rotate(0,40,799.869)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/119.X1 5]]></text>
+</g>
+<g id="id-117" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/118]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="742.66" text-anchor="start" fill="#000000" transform="rotate(0,40,742.66)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/118.X1 4]]></text>
+</g>
+<g id="id-118" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/114]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="771.264" text-anchor="start" fill="#000000" transform="rotate(0,40,771.264)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/114.X1 4]]></text>
+</g>
+<g id="id-119" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/117]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="857.078" text-anchor="start" fill="#000000" transform="rotate(0,40,857.078)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/117.X1 4]]></text>
+</g>
+<g id="id-120" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/115]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="828.473" text-anchor="start" fill="#000000" transform="rotate(0,40,828.473)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/115.X1 4]]></text>
+</g>
+<g id="id-121" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/114]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="885.682" text-anchor="start" fill="#000000" transform="rotate(0,40,885.682)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/114.X1 5]]></text>
+</g>
+<g id="id-122" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/115]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="914.287" text-anchor="start" fill="#000000" transform="rotate(0,40,914.287)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/115.X1 5]]></text>
+</g>
+<g id="id-123" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/117]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="942.891" text-anchor="start" fill="#000000" transform="rotate(0,40,942.891)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_B_ETC_Calibration_Temporary:17/117.X1 5]]></text>
+</g>
+<g id="id-124" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/118]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="971.496" text-anchor="start" fill="#000000" transform="rotate(0,40,971.496)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/118.X1 5]]></text>
+</g>
+<g id="id-125" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[17/119]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="40" y="1000.1" text-anchor="start" fill="#000000" transform="rotate(0,40,1000.1)" textLength="314.557" font-family="OF Helvetica" font-size="14.3002"><![CDATA[1E66_A_ETC_Calibration_Temporary:17/119.X1 4]]></text>
+</g>
+<g id="id-126" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[94/531]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="111.49" y="1057.31" text-anchor="start" fill="#000000" transform="rotate(0,111.49,1057.31)" textLength="243.067" font-family="OF Helvetica" font-size="14.3002"><![CDATA[5B5_D_2rd_seat_system:94/531.X1 20]]></text>
+</g>
+<g id="id-127" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[7/349]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="68.5961" y="256.384" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,256.384)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/349.X1 3]]></text>
+</g>
+<g id="id-128" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[7/351]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="68.5961" y="313.593" text-anchor="start" fill="#000000" transform="rotate(0,68.5961,313.593)" textLength="285.961" font-family="OF Helvetica" font-size="14.3002"><![CDATA[4A3_A_Parking_Assistance_PDCM:7/351.X1 3]]></text>
+</g>
+<g id="id-129" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[16/440]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="140.086" y="1257.54" text-anchor="start" fill="#000000" transform="rotate(0,140.086,1257.54)" textLength="214.471" font-family="OF Helvetica" font-size="14.3002"><![CDATA[7A3_D_Infotainment:16/440.X3 2]]></text>
+</g>
+<g id="id-130" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[10/2]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="75.7452" y="428.011" text-anchor="start" fill="#000000" transform="rotate(0,75.7452,428.011)" textLength="278.812" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_B_Exterior_Lights_Front:10/2.1.X1 1]]></text>
+</g>
+<g id="id-131" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[10/2]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="75.7452" y="456.615" text-anchor="start" fill="#000000" transform="rotate(0,75.7452,456.615)" textLength="278.812" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_B_Exterior_Lights_Front:10/2.1.X1 7]]></text>
+</g>
+<g id="id-132" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[10/2]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="75.7452" y="485.22" text-anchor="start" fill="#000000" transform="rotate(0,75.7452,485.22)" textLength="278.812" font-family="OF Helvetica" font-size="14.3002"><![CDATA[8A1_B_Exterior_Lights_Front:10/2.1.X1 8]]></text>
+</g>
+<g id="id-133" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[94/504]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="1050.85" y="1071.67" text-anchor="end" fill="#000000" transform="rotate(0,1050.85,1071.67)" textLength="53.1" font-family="OF Helvetica" font-size="12.1398"><![CDATA[94/504:13]]></text>
+</g>
+<g id="id-134" class="symbol">
+<metadata>
+<meta name="type"><![CDATA[component]]></meta>
+<meta name="tag"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="ref"><![CDATA[94/100]]></meta>
+<meta name="description"><![CDATA[AUTO_GENERATED]]></meta>
+<meta name="harness"><![CDATA[*opt*]]></meta>
+<meta name="variant"><![CDATA[*opt*]]></meta>
+
+</metadata>
+<text x="993.653" y="184.931" text-anchor="end" fill="#000000" transform="rotate(0,993.653,184.931)" textLength="53.1" font-family="OF Helvetica" font-size="12.1398"><![CDATA[94/100:22]]></text>
+</g>
+</svg>
