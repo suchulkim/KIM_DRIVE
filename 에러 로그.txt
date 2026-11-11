@@ -5,14 +5,10 @@ Python 3.9.8
 패키지 OK
 ===== 실행 =====
 Traceback (most recent call last):
-  File "C:\Users\k071777\OneDrive - Alliance\바탕 화면\WDStudio\2 WDStudio_license\wdedit\main.py", line 93, in <module>
-    main()
-  File "C:\Users\k071777\OneDrive - Alliance\바탕 화면\WDStudio\2 WDStudio_license\wdedit\gui.py", line 4545, in main
-    w = MainWindow()
-  File "C:\Users\k071777\OneDrive - Alliance\바탕 화면\WDStudio\2 WDStudio_license\wdedit\gui.py", line 1375, in __init__
-    self._make_actions()
-  File "C:\Users\k071777\OneDrive - Alliance\바탕 화면\WDStudio\2 WDStudio_license\wdedit\gui.py", line 2217, in _make_actions
-    ng_ = QActionGroup(self); import rules as _rl; curn = _rl._nav_fill()
-AttributeError: module 'rules' has no attribute '_nav_fill'
+  File "C:\Users\k071777\OneDrive - Alliance\바탕 화면\WDStudio\2 WDStudio_license\wdedit\main.py", line 92, in <module>
+    from gui import main
+  File "C:\Users\k071777\OneDrive - Alliance\바탕 화면\WDStudio\2 WDStudio_license\wdedit\gui.py", line 28, in <module>
+    import redraw as RD
+ModuleNotFoundError: No module named 'redraw'
 종료 코드: 1
 Press any key to continue . . .
